@@ -1,7 +1,3 @@
- # MangoJane
- =========
- 
-
 
 ## What is Mango Jane
  Mango Jane is a texting Content Management System (CMS) framework. 
