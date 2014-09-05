@@ -1,0 +1,46 @@
+Starting to look at all files. There are 0 total files
+#######
+#######
+#######
+########About to start to evaluate a new .medc
+########
+########
+   found workToDo/1409854430641753856masterEngine.medc and its timestamp is less than this startTime
+
+
+
+
+     workToDo/1409854430641753856masterEngine.medc
+     going into sendEmailSMTP with variables:< '4438327080@vtext.com
+'  'Hi! You will recieve a text from search.wiki and update.wiki. These will explain this apps use
+'  'wiki@mangojane.com
+'  '0
+'
+>
+     in doWeDoThisOrDelayItAgain with: < '  '4438327080@vtext.com
+'  'Hi! You will recieve a text from search.wiki and update.wiki. These will explain this apps use
+'  'wiki@mangojane.com
+'  '0
+'  '>
+          Here is each variable
+#0
+ 
+#1
+4438327080@vtext.com
+#2
+Hi! You will recieve a text from search.wiki and update.wiki. These will explain this apps use
+#3
+wiki@mangojane.com
+#4
+0
+the repeat is <wiki@mangojane.com>
+     leaving doWeDoThisOrDelayItAgain with 1
+     about to send this email:
+##
+ '4438327080@vtext.com
+'  'Hi! You will recieve a text from search.wiki and update.wiki. These will explain this apps use
+'  'wiki@mangojane.com
+'  '0
+'
+
+###

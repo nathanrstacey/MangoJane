@@ -1,0 +1,88 @@
+
+
+wiki (focus on diseases/illnesses)
+*c wiki *m search_wiki *e wikipedia search_wiki **l 1 # # {-p} \#\# *m update_wiki *e wikipedia update_wiki **l 1 # # {-p} \#\# ##
+*c search_wiki *b wikipedia qj # # {-p}
+*c update_wiki *x -r wikipedia jj *x -a wikipedia jq blog *e wikipedia jq **n jq : qj \#\#
+
+2. Phone 1: text <rash ring> to search_wiki@sambatop.com
+1. Phone 1: text->wiki@sambatop.com
+3. Phone 1: text <Hypertensive_Crisis increased BP, SEVERE anxiety, complications include: pulmonary edema, cerebral edema, stroke, MI, seizures, aortic dissection. Treatment: do NOT lie down, manage fever, meds that block norepi like: nifidepine, phentolamine, chlorpromazine> to update_wiki@sambatop.com
+
+<no cleanup>
+
+
+harvest prices
+*n harvestprices *x -a harvestprices prices blog ## *e harvestprices prices **r private ## *x -a harvestprices welcome blog ## *e harvestprices welcome **r public ## *e harvestprices welcome **n The admin will evaluate your account and request. # # ## *c harvestprices_join *e harvestprices prices **a -a -u -s \#\# *m harvestprices *e harvestprices welcome **l 1 # # {-p} \#\# ## *c harvestprices *e harvestprices prices **n \q\j # # {-p} \#\# ##  ##
+ 
+
+
+1. Phone: text->harvestprices_join@sambatop.com
+1a. Approve request: nathanrstacey@gmail.com email anything to a13284928193829@sambatop.com 
+2. nathanrstacey@gmail.com: email->harvestprices@sambatop.com <Wheat/bushel $8.23 - Corn/bushel $7.04 - Beef/lb $1.95 - Chicken/lb $.95>
+CleanUp: mysql perform-><delete FROM txtCLI.blogSubscriptions where appName = "harvestprices" and userName = "4438327080@vtext.com">
+
+
+
+
+
+*e cnn politics **a -a -u -s ## *x -a cnn usa blog ## *e cnn usa **r public ## *e cnn usa **a -a -u -s ## *x -a cnn international blog ## *e cnn international **r public ## *e cnn international **a -a -u -s ## *x -a cnn sports blog ## *e cnn sports **r public ## *e cnn sports **a -a -u -s ## *x -a cnn entertainment blog ## *e cnn entertainment **r public ## *e cnn entertainment **a -a -u -s ## *x -a cnn opinion blog ## *e cnn opinion **r public ## *e cnn opinion **a -a -u -s ## *c cnn_send *e cnn \j\j **n \q\j # # {-p} \#\# ## *c politics *e cnn politics **l 7 # # {-p} \#\# ## *c usa *e cnn usa **l 7 # # {-p} \#\# ## *c international *e cnn international **l 7 # # {-p} \#\# ## *c sports *e cnn sports **l 7 # # {-p} \#\# ## *c opinion *e cnn opinion **l 7 # # {-p} \#\# ## *c cnn *e cnn international **l 2 # # {-p} \#\# *e cnn usa **l 2 # # {-p} \#\# *e cnn politics **l 2 # # {-p} \#\# *e cnn sports **l 2 # # {-p} \#\# *e cnn entertainment **l 2 # # {-p} \#\# *e cnn opinion **l 2 # # {-p} \#\# ## 
+
+1. Phone: text->politics@sambatop.com (news already exists and will be sent)
+2. Phone: text->international@sambatop.com
+3. Phone: text->cnn@sambatop.com
+CleanUp: None
+
+
+
+
+Done
+*n jhs_alert *x -a jhs_alert status blog *e jhs_alert status **r private *x -a jhs_alert welcome blog *e jhs_alert welcome **r public *e jhs_alert welcome **n Welcome! You are now subscribed to any new jhs_alerts. At any time, text me anything back to unsubscribe # # ## *c jhs_alert_join *e jhs_alert status **a -a -u -s \#\# *m jhs_alert *e jhs_alert welcome **l 1 # # {-p} \#\# ## *c jhs_alert *e jhs_alert status **n qj # # {-p} \#\# ## 
+
+
+1. Phone: text->jhs_alert_join@sambatop.com
+1a. Approve request: nathanrstacey@gmail.com email anything to a13284928193829@sambatop.com 
+2. nathanrstacey@gmail.com: email->jhs_alert@sambatop.com <School is cancelled Tuesday 18 Jan due to snow>
+CleanUp: mysql perform-><delete FROM txtCLI.blogSubscriptions where appName = "jhs_alert" and userName = "4438327080@vtext.com">
+
+
+
+
+
+*n momsclub *x -a momsclub where blog *e momsclub where **r private *e momsclub where **o open *x -a momsclub welcome blog *e momsclub welcome **r public *e momsclub welcome **n Welcome! Simply text me back whenever you are out and about looking for playdates with your kids # # ## *c joinmomsclub *e momsclub where **a -a -u -s \#\# *m momsclub *e momsclub welcome **l 1 # # {-p} \#\# ## *c momsclub *e momsclub where **n \q\j # # {-p:-a} \#\# 
+
+1. PhoneNathan: text->joinmomsclub@sambatop.com
+1a. Approve Request with nathanrstacey@gmail.com
+2. PhoneNathan: text->momsclub <Just got to the park, love to see you if you are free!> look at email nvrslowdown@gmail.com to see message.
+3. nvrslowdown@gmail.com: text->momsHangOut <At McDonalds for lunch. > look at PhoneNathan to see message.
+CleanUp: mysql perform-><delete FROM txtCLI.blogSubscriptions where appName = "momsclub" and userName = "4108327080@vtext.com">
+
+
+
+
+
+*n scores ## *x  -a scores ravens blog ## *e scores ravens **r public ## *x  -a scores baltimoreravens blog ## *e scores baltimoreravens **r public ## *x  -a scores baltimorenfl blog ## *e scores baltimorenfl **r public ## *x  -a scores ravensnfl blog ## *e scores ravensnfl **r public ## *x  -a scores redskins blog ## *e scores redskins **r public ## *x  -a scores skins blog ## *e scores skins **r public ## *x  -a scores washingtonnfl blog ## *e scores washingtonnfl **r public ## *x  -a scores nfldc blog ## *e scores nfldc **r public ## *c update_ravens_nfl_scores *e scores ravens **n qj # # {-p} \#\# ## *c update_redskins_nfl_scores *e scores redskins **n qj # # {-p} \#\# ## *c scores *e scores jj **l 1 # # {-p}
+
+1. Phone: text-> scores@sambatop.com <redskins>
+CleanUp none 
+
+
+
+
+maps 
+phone 1: searchMaps@sambatop.com <pizza>
+phone 1: addmaps <Joes Deli off Rt 32 and Rt 108. We have the best ruben in town. 428-123-3183>
+
+CleanUp: mysql perform-><delete FROM txtCLI.blogPosts where appName = "maps" and post = "joes deli off rt 32 and rt 108. Best rueben in town. 423-123-3183">
+
+
+Done
+*c google *d qj # # -st:-e{-b-p} \#\#
+
+1. Phone text-> google@sambatop.com <columbia pizza>
+
+
+
+also:
+"blogger.txt"
+"companyInstructions.txt"

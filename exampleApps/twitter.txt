@@ -1,0 +1,90 @@
+Prep
+*n twitter *r all
+*x -a twitter welcome blog *e twitter welcome **r public *e twitter welcome **n Welcome to twitter. You should receive texts from other addresses to assist you with this app # #
+*x -a twitter subscribe blog *e twitter subscribe **r public *e twitter subscribe **n Text me the name of a blog which you wish to subscribe # #
+*x -a twitter unsubscribe blog *e twitter unsubscribe **r public *e twitter unsubscribe **n You have unsubscribed to this blog # #
+*x -a twitter subscribe_successful blog *e twitter subscribe_successful **r public *e twitter subscribe_successful **n You subscribed to the blog. If it is private we are awaiting the owners approval of this subscription # #
+*x -a twitter new blog *e twitter new **r public *e twitter new **n Text me back the name of a new blog you wish to start # #
+*x -a twitter startThisBlog blog *e twitter startThisBlog **r public *e twitter startThisBlog **n Congrats, your blog is made! Text me back to post onto your blog # #
+*x -a twitter delete blog *e twitter delete **r public *e twitter delete **n Text me back to delete this blog. Remember, this will delete every post as well so be careful! # #
+*x -a twitter delete_successful blog *e twitter delete_successful **r public *e twitter delete_successful **n This blog has been deleted successfully # #
+*x -a twitter post_successful blog *e twitter post_successful **r public *e twitter post_successful **n The post was successful!# #
+*x -a twitter try_these blog *e twitter try_these **r public *e twitter try_these **n Text me back to see some blogs that might interest you # #
+*x -a twitter public blog *e twitter public **r public *e twitter public **n Text me back anything to make this blog public # #
+*x -a twitter private blog *e twitter private **r public *e twitter private **n Text me back anything to make this blog private # #
+*x -a twitter public_successful blog *e twitter public_successful **r public *e twitter public_successful **n This blog is now public # #
+*x -a twitter private_successful blog *e twitter private_successful **r public *e twitter private_successful **n This blog is now private # #
+*x -a twitter search blog *e twitter search **r public *e twitter search **n Search all accessible blogs. Simply text me back a search term # #
+*x -a twitter search_app blog *e twitter search_app **r public *e twitter search_app **n Search this blog here. Simply text me back a search term # #
+
+
+
+Initial Codewords
+twitter
+*c twitter *m twitter_search *e twitter search **l 1 # # {-p} \#\# *m twitter *e twitter welcome **l 1 # # {-p} \#\# *m twitter_try_these *e twitter try_these **l 1 # # {-p} \#\# *m twitter_subscribe *e twitter subscribe **l 1 # # {-p} \#\# *m twitter_new *e twitter new **l 1 # # {-p} \#\#  
+
+
+twitter_subscribe
+*c twitter_subscribe *m twitter_unsubscribe_jj *e twitter jq **a -a -u -s *e twitter subscribe_successful **l 1 # # {-p} \#\# *m twitter_search_jq *e twitter search_app **l 1 # # {-p} \#\#
+
+twitter_new
+*c twitter_new *m twitter_jj *x -a twitter jq blog *e twitter jq **r private *e twitter startThisBlog **l 1 # # {-p} *m twitter_delete_jq *e twitter delete **l 1 # # {-p} \#\# *m twitter_public_jq *e twitter public **l 1 # # {-p} \#\# *m twitter_jq *e twitter private_successful **l 1 # # {-p}
+
+twitter_try_these
+*c twitter_try_these *h twitter *m twitter_unsubscribe_js *e twitter js **a -a -u -s *e twitter subscribe_successful **l 1 # # {-p} \\#\\# \#\#
+
+twitter_search
+*c twitter_search *m twitter_search *b qj # # (-st){-b:-p}
+
+
+
+	Routines in Codewords
+	twitter_unsubscribe_jj - created under twitter_subscribe
+	*c twitter_unsubscribe_jj *m twitter_unsubscribe_jq *e twitter jq **a -r -u -s *e twitter unsubscribe **l 1 # # {-p}
+	*c twitter_unsubscribe_\j\j *m twitter_unsubscribe_\j\q *e twitter \j\q **a -r -u -s *e twitter unsubscribe **l 1 # # {-p}
+
+	twitter_search_jj - created under twitter_subscribe
+	*c twitter_search_jj *m twitter_search_jq *e twitter jq **b \q\j # # -st:-e{-b-p}
+	*c twitter_search_\j\j *m twitter_search_\j\q *e twitter \j\q **b \\q\\j # # -st:-e{-b-p}
+
+	twitter_delete_jj - created under twitter_new
+	*c twitter_delete_jj *x -r twitter jq *m twitter_jq *e twitter delete_successful **l 1 # # {-p}
+	*c twitter_delete_\j\j *x -r twitter \j\q *m twitter_\j\q *e twitter delete_successful **l 1 # # {-p}
+
+	twitter_jj - created under twitter_new
+	*c twitter_jj *m twitter_jq *e twitter jq **n \q\j # # {-p} \#\# *e twitter post_successful **l 1 # # {-p}
+	*c twitter_\j\j *m twitter_\j\q *e twitter \j\q **n \\q\\j # # {-p} \\#\\# *e twitter post_successful **l 1 # # {-p}	
+	
+	twitter_public_jj - created under twitter_new
+	*c twitter_public_jj *e twitter jq **r public *m twitter_private_jq *e twitter private **l 1 # # {-p} \#\# *m twitter_jq *e twitter public_successful **l 1 # # {-p}
+	*c twitter_public_\j\j *e twitter \j\q **r public *m twitter_private_\j\q *e twitter private **l 1 # # {-p} \\#\\# *m twitter_\j\q *e twitter public_successful **l 1 # # {-p}
+	
+	blogg_private_jj - created under twitter_new
+	*c twitter_private_jj *m twitter_jq *e twitter jq **r private *e twitter private_successful **l 1 # # {-p} \#\# *m twitter_public_jq *e twitter public **l 1 # # {-p}
+	*c twitter_private_\j\j *m twitter_\j\q *e twitter \j\q **r private *e twitter private_successful **l 1 # # {-p} \\#\\# *m twitter_public_\j\q *e twitter public **l 1 # # {-p}
+
+
+
+
+
+
+
+
+Final codeword with routines:
+twitter
+*c twitter *m twitter_search *e twitter search **l 1 # # {-p} \#\# *m twitter *e twitter welcome **l 1 # # {-p} \#\# *m twitter_try_these *e twitter try_these **l 1 # # {-p} \#\# *m twitter_subscribe *e twitter subscribe **l 1 # # {-p} \#\# *m twitter_new *e twitter new **l 1 # # {-p} \#\#
+
+
+twitter_subscribe
+*c twitter_subscribe *m twitter_unsubscribe_jj *e twitter jq **a -a -u -s *e twitter subscribe_successful **l 1 # # {-p} \#\# *m twitter_search_jq *e twitter search_app **l 1 # # {-p} \#\# *c twitter_unsubscribe_\j\j *m twitter_unsubscribe_\j\q *e twitter \j\q **a -r -u -s *e twitter unsubscribe **l 1 # # {-p} \#\# *c twitter_search_\j\j *m twitter_search_\j\q *e twitter \j\q **b \\q\\j # # -st:-e{-b-p} \#\#
+
+twitter_new
+*c twitter_new *m twitter_jj *x -a twitter jq blog *e twitter jq **r private *e twitter startThisBlog **l 1 # # {-p} *m twitter_delete_jq *e twitter delete **l 1 # # {-p} \#\# *m twitter_public_jq *e twitter public **l 1 # # {-p} \#\# *m twitter_jq *e twitter private_successful **l 1 # # {-p} \#\# *c twitter_delete_\j\q *x -r twitter \j\q *m twitter_\j\q *e twitter delete_successful **l 1 # # {-p} \#\# *c twitter_\j\q *m twitter_\j\q *e twitter \j\q **n \\q\\j # # {-p} \\#\\# *e twitter post_successful **l 1 # # {-p} \#\# *c twitter_public_\j\j *e twitter \j\q **r public *m twitter_private_\j\q *e twitter private **l 1 # # {-p} \\#\\# *m twitter_\j\q *e twitter public_successful **l 1 # # {-p} \#\# *c twitter_private_\j\q *m twitter_\j\q *e twitter \j\q **r private *e twitter private_successful **l 1 # # {-p} \\#\\# *m twitter_public_\j\q *e twitter public **l 1 # # {-p} \#\#
+ 
+
+twitter_try_these
+*c twitter_try_these *h twitter *m twitter_unsubscribe_js *e twitter js **a -a -u -s *e twitter subscribe_successful **l 1 # # {-p} \\#\\# \#\#
+
+twitter_search
+*c twitter_search *m twitter_search *b twitter qj # # (-st){-b-p} \#\#
+

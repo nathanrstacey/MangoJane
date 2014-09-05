@@ -1,0 +1,181 @@
+in codeWord() with the following code Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll
+In theToEmail if
+we found that codeWord
+in while and CLI=<*y qj ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+in getNextWord and rest of code is <Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <Hi>
+in isAnotherWordBeforeNextStar and rest of code is <Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <Nahtan,>
+in isAnotherWordBeforeNextStar and rest of code is <Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <Zend>
+in isAnotherWordBeforeNextStar and rest of code is <is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <is>
+in isAnotherWordBeforeNextStar and rest of code is <taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <taking>
+in isAnotherWordBeforeNextStar and rest of code is <the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <the>
+in isAnotherWordBeforeNextStar and rest of code is <pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <pulse>
+in isAnotherWordBeforeNextStar and rest of code is <of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <of>
+in isAnotherWordBeforeNextStar and rest of code is <the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <the>
+in isAnotherWordBeforeNextStar and rest of code is <worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <worldwide>
+in isAnotherWordBeforeNextStar and rest of code is <PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <PHP>
+in isAnotherWordBeforeNextStar and rest of code is <developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <developer>
+in isAnotherWordBeforeNextStar and rest of code is <community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <community.>
+in isAnotherWordBeforeNextStar and rest of code is <Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <Why>
+in isAnotherWordBeforeNextStar and rest of code is <do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <do>
+in isAnotherWordBeforeNextStar and rest of code is <app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <app>
+in isAnotherWordBeforeNextStar and rest of code is <releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <releases>
+in isAnotherWordBeforeNextStar and rest of code is <fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <fail?>
+in isAnotherWordBeforeNextStar and rest of code is <Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <Does>
+in isAnotherWordBeforeNextStar and rest of code is <automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <automation>
+in isAnotherWordBeforeNextStar and rest of code is <increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <increase>
+in isAnotherWordBeforeNextStar and rest of code is <development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <development>
+in isAnotherWordBeforeNextStar and rest of code is <productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <productivity?>
+in isAnotherWordBeforeNextStar and rest of code is <And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <And>
+in isAnotherWordBeforeNextStar and rest of code is <what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <what>
+in isAnotherWordBeforeNextStar and rest of code is <really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <really>
+in isAnotherWordBeforeNextStar and rest of code is <fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <fuels>
+in isAnotherWordBeforeNextStar and rest of code is <your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <your>
+in isAnotherWordBeforeNextStar and rest of code is <coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <coding>
+in isAnotherWordBeforeNextStar and rest of code is <sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <sessions? Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <sessions?>
+in isAnotherWordBeforeNextStar and rest of code is <Share your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <Share your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <Share>
+in isAnotherWordBeforeNextStar and rest of code is <your opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <your opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <your>
+in isAnotherWordBeforeNextStar and rest of code is <opinion, because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <opinion, because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <opinion,>
+in isAnotherWordBeforeNextStar and rest of code is <because it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <because it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <because>
+in isAnotherWordBeforeNextStar and rest of code is <it matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <it matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <it>
+in isAnotherWordBeforeNextStar and rest of code is <matters! Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <matters! Take this short survey, and youll>
+leaving getNextWord with nextWord <matters!>
+in isAnotherWordBeforeNextStar and rest of code is <Take this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <Take this short survey, and youll>
+leaving getNextWord with nextWord <Take>
+in isAnotherWordBeforeNextStar and rest of code is <this short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <this short survey, and youll>
+leaving getNextWord with nextWord <this>
+in isAnotherWordBeforeNextStar and rest of code is <short survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <short survey, and youll>
+leaving getNextWord with nextWord <short>
+in isAnotherWordBeforeNextStar and rest of code is <survey, and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <survey, and youll>
+leaving getNextWord with nextWord <survey,>
+in isAnotherWordBeforeNextStar and rest of code is <and youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <and youll>
+leaving getNextWord with nextWord <and>
+in isAnotherWordBeforeNextStar and rest of code is <youll>
+leaving isAnotehrWordBeforeNextStar with 1
+in getNextWord and rest of code is <youll>
+leaving getNextWord with nextWord <youll>
+in isAnotherWordBeforeNextStar and rest of code is <>
+leaving isAnotherWordBeforeNextStar with 0
+CLI is <*y qj ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##> and tempCLI2 is <Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll>
+in isAnotherWordBeforeNextStar and rest of code is <>
+leaving isAnotherWordBeforeNextStar with 0
+still in while. It appears there are no jq or qj and the last nextWord is done. So we are doing another jj if there is one
+completing a while iteration with CLI=<*y Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+code =<*y Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ## >
+leaving codeWord()
+entering createOutputFileForNextScript
+leaving createOutputFileForNextScript

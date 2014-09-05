@@ -1,0 +1,2461 @@
+Cs#####
+#####
+#####
+12/03/2014 17:55:35:
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**r public>
+in getNextWordBlog with theTextBlogForNextScript:<**r public>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<public>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='public' WHERE (appName = 'chat' AND subAppName  = 'sippoj')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**a -a -u -s>
+in getNextWordBlog with theTextBlogForNextScript:<**a -a -u -s>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**a>
+In starstaraBloga
+in getNextWordBlog with theTextBlogForNextScript:<-a -u -s>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<-u -s>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<-s>
+leaving getNextWordBlog
+this user already exists. We will update them
+in starstarBloga adding a user
+leaving isPublicBlog with a 1
+in starstarBloga and it is a public subApp so user is fully approved
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**r private>
+in getNextWordBlog with theTextBlogForNextScript:<**r private>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<private>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='private' WHERE (appName = 'chat' AND subAppName  = 'sippoj')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**o -o>
+in getNextWordBlog with theTextBlogForNextScript:<**o -o>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**o>
+in starstarBlogo
+in getNextWordBlog with theTextBlogForNextScript:<-o>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+in starstarBlogo
+update blogList SET security='-o' WHERE (appName = 'chat' AND subAppName  = 'o')in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**r public>
+in getNextWordBlog with theTextBlogForNextScript:<**r public>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<public>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='public' WHERE (appName = 'chat' AND subAppName  = 'sippoj')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1> <**n sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<sippoj>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<is>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<created!>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<
+You>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<should>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<recieve>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<another>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<from this address. Copy its contents and send it to the other members to join # #> and nextWord:<text>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<this address. Copy its contents and send it to the other members to join # #> and nextWord:<from>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<address. Copy its contents and send it to the other members to join # #> and nextWord:<this>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Copy its contents and send it to the other members to join # #> and nextWord:<address.>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<its contents and send it to the other members to join # #> and nextWord:<Copy>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<contents and send it to the other members to join # #> and nextWord:<its>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<and send it to the other members to join # #> and nextWord:<contents>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<send it to the other members to join # #> and nextWord:<and>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<it to the other members to join # #> and nextWord:<send>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to the other members to join # #> and nextWord:<it>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**a -a -u -s>
+in getNextWordBlog with theTextBlogForNextScript:<**a -a -u -s>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**a>
+In starstaraBloga
+in getNextWordBlog with theTextBlogForNextScript:<-a -u -s>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<-u -s>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<-s>
+leaving getNextWordBlog
+this user already exists. We will update them
+in starstarBloga adding a user
+leaving isPublicBlog with a 1
+in starstarBloga and it is a public subApp so user is fully approved
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**r private>
+in getNextWordBlog with theTextBlogForNextScript:<**r private>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<private>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='private' WHERE (appName = 'chat' AND subAppName  = 'sippoj')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj> <**o -o>
+in getNextWordBlog with theTextBlogForNextScript:<**o -o>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**o>
+in starstarBlogo
+in getNextWordBlog with theTextBlogForNextScript:<-o>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+in starstarBlogo
+update blogList SET security='-o' WHERE (appName = 'chat' AND subAppName  = 'o')in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+ post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<the other members to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<other members to join # #> and nextWord:<the>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<members to join # #> and nextWord:<other>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to join # #> and nextWord:<members>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<join>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>blogPostValue is <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>
+blogPostValue after chomp <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated1', 'sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1> <**n sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<sippoj>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<is>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<created!>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<
+You>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<should>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<another text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<recieve>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<another text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<text from this address. Copy its contents and send it to the other members to join # #> and nextWord:<another>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<text from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<from this address. Copy its contents and send it to the other members to join # #> and nextWord:<text>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<from this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<this address. Copy its contents and send it to the other members to join # #> and nextWord:<from>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<this address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<address. Copy its contents and send it to the other members to join # #> and nextWord:<this>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<address. Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Copy its contents and send it to the other members to join # #> and nextWord:<address.>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Copy its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<its contents and send it to the other members to join # #> and nextWord:<Copy>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<its contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<contents and send it to the other members to join # #> and nextWord:<its>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<contents and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<and send it to the other members to join # #> and nextWord:<contents>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<and send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<send it to the other members to join # #> and nextWord:<and>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<send it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<it to the other members to join # #> and nextWord:<send>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<it to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to the other members to join # #> and nextWord:<it>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated11> <**n Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<Also,>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<if>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<you>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<ever>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<want>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<more>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<options>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<configure>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<txt (more) to sippoj.options@mangojane.com # #> and nextWord:<this,>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<(more) to sippoj.options@mangojane.com # #> and nextWord:<txt>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<(more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to sippoj.options@mangojane.com # #> and nextWord:<(more)>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj.options@mangojane.com # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<sippoj.options@mangojane.com>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>blogPostValue is <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>
+blogPostValue after chomp <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated11', 'Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1user> <**n Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<Welcome>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<sippoj!>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<
+You>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<should>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<recieve>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<another>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<text>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<from>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<address. Copy its contents and send it to some of the other members to join # #> and nextWord:<this>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Copy its contents and send it to some of the other members to join # #> and nextWord:<address.>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<its contents and send it to some of the other members to join # #> and nextWord:<Copy>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<contents and send it to some of the other members to join # #> and nextWord:<its>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<and send it to some of the other members to join # #> and nextWord:<contents>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<send it to some of the other members to join # #> and nextWord:<and>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<it to some of the other members to join # #> and nextWord:<send>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog w post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<the other members to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<other members to join # #> and nextWord:<the>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<members to join # #> and nextWord:<other>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to join # #> and nextWord:<members>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<join>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>blogPostValue is <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>
+blogPostValue after chomp <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated1', 'sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+ith theTextBlogForNextScript:<it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to some of the other members to join # #> and nextWord:<it>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<some of the other members to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<of the other members to join # #> and nextWord:<some>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<the other members to join # #> and nextWord:<of>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<other members to join # #> and nextWord:<the>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<members to join # #> and nextWord:<other>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to join # #> and nextWord:<members>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<join>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>blogPostValue is <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>
+blogPostValue after chomp <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated1user', 'Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated2> <**n Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<Check>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<out>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<our>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<chat>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<system>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<for>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<sippoj>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<
+It>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<will>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<let>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<us>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<send>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<messages>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<everyone>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<instantly 
+Txt (your name) to sippoj@mangojane.com to jo
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated11> <**n Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<Also,>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<if>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<you>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<ever want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<want more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<ever>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<want more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<more options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<want>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<more options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<options to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<more>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<options to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<options>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<configure this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<configure this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<this, txt (more) to sippoj.options@mangojane.com # #> and nextWord:<configure>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<this, txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<txt (more) to sippoj.options@mangojane.com # #> and nextWord:<this,>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<txt (more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<(more) to sippoj.options@mangojane.com # #> and nextWord:<txt>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<(more) to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to sippoj.options@mangojane.com # #> and nextWord:<(more)>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj.options@mangojane.com # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj.options@mangojane.com # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<sippoj.options@mangojane.com>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>blogPostValue is <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>
+blogPostValue after chomp <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated11', 'Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+in # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<instantly>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<(your name) to sippoj@mangojane.com to join # #> and nextWord:<
+Txt>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<(your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<name) to sippoj@mangojane.com to join # #> and nextWord:<(your>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to sippoj@mangojane.com to join # #> and nextWord:<name)>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj@mangojane.com to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to join # #> and nextWord:<sippoj@mangojane.com>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<join>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>blogPostValue is <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>
+blogPostValue after chomp <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated2', 'Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1user> <**n Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<Welcome>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<sippoj!>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<
+You>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<should recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<should>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<recieve another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<another text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<recieve>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<another text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<text from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<another>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<text from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<from this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<text>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<from this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<this address. Copy its contents and send it to some of the other members to join # #> and nextWord:<from>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<this address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<address. Copy its contents and send it to some of the other members to join # #> and nextWord:<this>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<address. Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Copy its contents and send it to some of the other members to join # #> and nextWord:<address.>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Copy its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<its contents and send it to some of the other members to join # #> and nextWord:<Copy>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<its contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<contents and send it to some of the other members to join # #> and nextWord:<its>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<contents and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<and send it to some of the other members to join # #> and nextWord:<contents>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<and send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<send it to some of the other members to join # #> and nextWord:<and>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<send it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<it to some of the other members to join # #> and nextWord:<send>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog w
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <notify> <notifyCreated> <**l 1 1 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 1 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 1 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<1 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'notify' AND subAppName = 'notifyCreated') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-05 13:19:50,notifyCreated,notify,1,Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name45454545454545
+about to create the following email "4438327080@vtext.com" "Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name45454545454545" "chat.setup@mangojane.com" "1"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+ith theTextBlogForNextScript:<it to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to some of the other members to join # #> and nextWord:<it>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<some of the other members to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<some of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<of the other members to join # #> and nextWord:<some>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<of the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<the other members to join # #> and nextWord:<of>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<the other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<other members to join # #> and nextWord:<the>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<other members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<members to join # #> and nextWord:<other>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<members to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to join # #> and nextWord:<members>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<join>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>blogPostValue is <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>
+blogPostValue after chomp <Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated1user', 'Welcome to sippoj! 
+You should recieve another text from this address. Copy its contents and send it to some of the other members to join', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1> <**l 1 10 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 10 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 10 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<10 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated1') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-12 17:55:35,sippoj_notifyCreated1,chat,1,sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join45454545454545
+about to create the following email "4438327080@vtext.com" "sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join45454545454545" "txt.to.sippoj.here@mangojane.com" "10"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated2> <**n Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+in getNextWordBlog with theTextBlogForNextScript:<**n Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**n>
+in starstarBlogn
+In findAllOfTheBlogPostBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<**n>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<Check>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<out>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<our>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<chat>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<system>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<for>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<sippoj>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<
+It>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<will>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<let>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<us>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<send>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<messages>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<instantly 
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<everyone>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<instantly 
+Txt (your name) to sippoj@mangojane.com to jo
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated11> <**l 1 12 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 12 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 12 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<12 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated11') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-12 17:55:35,sippoj_notifyCreated11,chat,1,Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com45454545454545
+about to create the following email "4438327080@vtext.com" "Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com45454545454545" "txt.to.sippoj.here@mangojane.com" "12"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated2> <**l 1 20 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 20 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 20 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<20 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated2') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-12 17:55:35,sippoj_notifyCreated2,chat,1,Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join45454545454545
+about to create the following email "4438327080@vtext.com" "Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join45454545454545" "txt.to.sippoj.here@mangojane.com" "20"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+in # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<
+Txt (your name) to sippoj@mangojane.com to join # #> and nextWord:<instantly>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<
+Txt (your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<(your name) to sippoj@mangojane.com to join # #> and nextWord:<
+Txt>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<(your name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<name) to sippoj@mangojane.com to join # #> and nextWord:<(your>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<name) to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to sippoj@mangojane.com to join # #> and nextWord:<name)>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<sippoj@mangojane.com to join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<sippoj@mangojane.com to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<to join # #> and nextWord:<sippoj@mangojane.com>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<to join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<join # #> and nextWord:<to>
+leaving isAnotherWordBeforeHashBlog with <1>
+looking at another word for the post in findAllOfTheBlogPostBlog
+in getNextWordBlog with theTextBlogForNextScript:<join # #>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# #> and nextWord:<join>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+Leaving findAllOfTheBlogPostBlog with <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>blogPostValue is <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>
+in getNextWordBlog with theTextBlogForNextScript:<# #>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<#> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<#>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <>
+blogOptions <> and blogFormat <>
+blogPostValue before chomp <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>
+blogPostValue after chomp <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join>
+leaving isPublicBlog with a 1
+starting to add attachments to blogPost. The attachmentString is <> which created <-1> total attachments
+about to perform <INSERT INTO blogPosts(appName, subAppName, post, public, pointsMade, pointsPossible,userName) VALUES('chat', 'sippoj_notifyCreated2', 'Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join', 'public', '0', '0','4438327080@vtext.com')Leaving starstarblogn
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1> <**r public>
+in getNextWordBlog with theTextBlogForNextScript:<**r public>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<public>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated1' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='public' WHERE (appName = 'chat' AND subAppName  = 'sippoj_notifyCreated1')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <notify> <notifyCreated> <**l 1 1 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 1 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 1 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<1 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'notify' AND subAppName = 'notifyCreated') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-05 13:19:50,notifyCreated,notify,1,Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name45454545454545
+about to create the following email "4438327080@vtext.com" "Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name45454545454545" "chat.setup@mangojane.com" "1"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <Your new group is created! You should receive a text from the new group. 
+Wanna create another? Just text me back the new group name45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "chat.setup@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated2> <**r public>
+in getNextWordBlog with theTextBlogForNextScript:<**r public>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<public>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated2' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='public' WHERE (appName = 'chat' AND subAppName  = 'sippoj_notifyCreated2')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1> <**l 1 10 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 10 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 10 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<10 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated1') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-12 17:55:35,sippoj_notifyCreated1,chat,1,sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join45454545454545
+about to create the following email "4438327080@vtext.com" "sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join45454545454545" "txt.to.sippoj.here@mangojane.com" "10"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <sippoj is created! 
+You should recieve another text from this address. Copy its contents and send it to the other members to join45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated11> <**l 1 12 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 12 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 12 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<12 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated11') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-12 17:55:35,sippoj_notifyCreated11,chat,1,Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com45454545454545
+about to create the following email "4438327080@vtext.com" "Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com45454545454545" "txt.to.sippoj.here@mangojane.com" "12"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <Also, if you ever want more options to configure this, txt (more) to sippoj.options@mangojane.com45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated2> <**l 1 20 # # {-p}>
+in getNextWordBlog with theTextBlogForNextScript:<**l 1 20 # # {-p}>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**l>
+in starstarBlogl
+in getNextWordBlog with theTextBlogForNextScript:<1 20 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<20 # # {-p}>
+leaving getNextWordBlog
+in getNextWordBlog with theTextBlogForNextScript:<# # {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<# {-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <0>, it was a # 
+leaving findAllOptionsBlog with return <>
+in getNextWordBlog with theTextBlogForNextScript:<# {-p}>
+leaving getNextWordBlog
+in findAllOptionsBLog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<{-p}> and nextWord:<#>
+leaving isAnotherWordBeforeHashBlog with <1>
+in getNextWordBlog with theTextBlogForNextScript:<{-p}>
+leaving getNextWordBlog
+in isAnotherWordBeforeHashBlog and theTextBlogForNextScript:<> and nextWord:<{-p}>
+leaving isAnotherWordBeforeHashBlog with <0>
+leaving findAllOptionsBlog with return <{-p}>
+blogOptions <> and blogFormat <{-p}>
+leaving isPublicBlog with a 1
+about to perform <SELECT * FROM blogPosts WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated2') ORDER BY cur_timestamp DESC>
+while (0<1 and 8 > 0) equals <1>
+going into addToPostFormat(Bs,2014-03-12 17:55:35,sippoj_notifyCreated2,chat,1,Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join,{-p},"")
+In sendOutTextBlog with 4438327080@vtext.com and Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join45454545454545
+about to create the following email "4438327080@vtext.com" "Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join45454545454545" "txt.to.sippoj.here@mangojane.com" "20"Leaving sendOutTextBlog
+ending starstarBlogl
+finalString <Check out our chat system for sippoj 
+It will let us send messages to everyone instantly 
+Txt (your name) to sippoj@mangojane.com to join45454545454545>
+****************
+
+in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated1> <**r public>
+in getNextWordBlog with theTextBlogForNextScript:<**r public>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<public>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated1' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='public' WHERE (appName = 'chat' AND subAppName  = 'sippoj_notifyCreated1')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr
+
+
+
+
+
+##################
+###############
+#################
+in goThroughBlog with <4438327080@vtext.com> <chat> <sippoj_notifyCreated2> <**r public>
+in getNextWordBlog with theTextBlogForNextScript:<**r public>
+leaving getNextWordBlog
+in while loop to look at next sub to go into with nextWordBlog:<**r>
+in starstarBlogr
+in getNextWordBlog with theTextBlogForNextScript:<public>
+leaving getNextWordBlog
+in isAdminOrCreatorBlog
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))>
+in isAdminOrAll
+about to do <SELECT * FROM apps WHERE (appName = 'chat' AND (admin1 = '4438327080@vtext.com' OR admin2 = '4438327080@vtext.com' OR admin3 = '4438327080@vtext.com'))
+In changeMMSAddressToSMS
+the email Name is <4438327080> and domain <@vtext.com>
+leaving makeSureThisSMSandNotMMSEmail with the original email address
+leaving isAdminOrAllBlog with return <1>
+about to do <SELECT * FROM blogList WHERE (appName = 'chat' AND subAppName = 'sippoj_notifyCreated2' AND creator  = '4438327080@vtext.com')>
+leaving isAdminOrCreator with <1>. Email is a creator
+We have approval to update security with <update bloglist SET security='public' WHERE (appName = 'chat' AND subAppName  = 'sippoj_notifyCreated2')>in startstarIsDoneBlog
+in getNextWordBlog with theTextBlogForNextScript:<>
+no more words says getNextWordBlog
+in closeUpBlog. theTextCompleted<>
+ and closeUpBlogStringBlog< >
+**********
+
+In sendOutTextBlog with 4438327080@vtext.com and   
+about to create the following email "4438327080@vtext.com" "  " "txt.to.sippoj.here@mangojane.com" "0"Leaving sendOutTextBlog
+leaving getNextWordBlog
+leaving startstarIsDoneBlog
+**************
+
+leaving starstarblogr

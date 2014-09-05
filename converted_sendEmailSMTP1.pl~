@@ -1,0 +1,151 @@
+my $global_email_Server_Name = 'mail.sambatop.com';
+my $global_email_Main_User_Name = 'home@sambatop.com';
+my $global_email_Mail_User_Password = '1qazZAQ!';
+my $global_email_url = 'sambatop.com';
+my $global_email_uses_SSL = '0';
+my $global_MYSQL_host = 'localhost';
+my $global_MYSQL_database = 'txtCLI';
+my $global_MYSQL_username = 'root';
+my $global_MYSQL_password = 'mullet11';
+my $global_admins = 'all';
+
+
+
+#!/usr/bin/perl
+#
+#sendEmailSMTPStandard.pl
+#
+#This looks sends out an email 
+#
+#
+#Args = ARGV[0]:emailaddress
+#Args = ARGV[1]:sms value
+#Args = ARGV[2]:from email
+#
+#
+#
+#important variables in this script
+my $from= $global_email_Main_User_Name;
+my $subject='';
+my $title='Perl Mail demo';
+#
+#
+use strict;
+
+
+open (LOG, ">>log_sendEmailSMTP.txt");
+#arg1 is phone number of sender
+#arg2 is text
+my $toEmail = $ARGV[0];
+chomp($toEmail);
+print LOG "the toEmail is <$toEmail>\n";
+my $theText = $ARGV[1];
+chomp($theText);
+$theText =~ s/</&lt;/g;
+$theText =~ s/>/&gt;/g;
+$theText =~ s/\\n/\n/g;
+$theText =~ s/45454545454545/\n/g;  #some posts use this number to make carriage returns
+$theText =~ s/\n /\n&nbsp;/g;
+$theText =~ s/  /&nbsp;&nbsp;/g;
+print LOG "theText is <$theText>\n";
+$from = $ARGV[2];
+chomp($from);
+$from =~ ~ s/\\n/\n/g;
+if ($theText =~ /^$/) {
+	print LOG "there was no text to send out so we will die now\n";
+	close LOG;
+	die;	
+}
+my ($sec, $min, $hr, $day, $mon, $year) = localtime;
+printf LOG ("#####\n#####\n#####\n%02d/%02d/%04d %02d:%02d:%02d:In sendEmailSMTP with:$toEmail\n$theText\n", $day, $mon + 1, 1900 + $year, $hr, $min, $sec);
+
+$_ = $theText;
+my @attachmentArray = / 789502735 (.*) 789502735 /g;
+print LOG "the first attachment is <$1>\n";
+my $tempScalar = scalar(@attachmentArray);
+print LOG "there are this many attachments <$tempScalar>\n";
+$_ = $theText;
+print LOG "the email before switching out attachments <$theText>\n";
+$theText =~ s/ 789502735 .* 789502735 //g;
+chomp($theText);
+$theText =~ s/\n+$//g;
+$theText =~ s/\r+$//g;
+$theText =~ s/\s+$//g;
+print LOG "the email now states after attachments and lagging white space are gone <$theText>\n";
+makeToEmailBeMMSIfAttachmentsOr140Char();
+my $to=$toEmail;
+
+
+my $tempVal = 0;
+my $attachmentString = "";
+while (<@attachmentArray>) {
+	if ($_ =~ /\w/) {
+		if ($tempVal == 0) {
+			$attachmentString = "-a";
+		}
+		$attachmentString = $attachmentString . " \"email\\attachments\\$attachmentArray[$tempVal]\"";
+	}
+	$tempVal++;
+}
+my $toSystem;
+while (length($theText) > 0 ) {
+
+	$toSystem = "sendEmail -f $from -t $to -m \"$theText\" -s $global_email_url:2525 -xu $from -xp $global_email_Mail_User_Password -o tls=no -o message-content-type=html -o message-charset=utf-8 $attachmentString";
+	print "\n\n<sendEmail -f $from -t $to -m \"$theText\" -s $global_email_url:2525 -xu $from -xp $global_email_Mail_User_Password -o tls=no -o message-content-type=html -o message-charset=utf-8 $attachmentString>\n\n";
+	if (length($theText>160) and $attachmentString =~ /^$/) {
+		$theText = substr $theText, 160, (length($theText)-160);
+		$attachmentString = 0;
+	}
+	else {
+		$theText = "";
+	}
+}
+       #system("sendEmail -f $from -t $to -u \"Database Dump\" -m \"$theText\" -s sambatop.com:2525 -xu $fromEmail -xp 1qazZAQ! -o tls=no -o message-content-type=html $attachmentString");
+        
+chomp($toSystem);
+$toSystem =~ s/\n+$//g;
+$toSystem =~ s/\r+$//g;
+$toSystem =~ s/\s+$//g;
+print LOG "about to send out to system:<$toSystem>";
+system("$toSystem");
+
+	
+ 
+
+
+ 
+close(MAIL);
+close(LOG);
+
+
+
+sub makeToEmailBeMMSIfAttachmentsOr140Char {
+	use DBI;
+
+	my $host = $global_MYSQL_host;
+	my $database = $global_MYSQL_database;
+	my $username = $global_MYSQL_username;
+	my $password = $global_MYSQL_password;
+
+	#all of the blog variables
+	my $connectionInfo = "dbi:mysql:$database;$host";
+	my $connection = DBI->connect($connectionInfo, $username, $password);
+
+	print LOG "in makeToEmailBeMMSIfAttachmentsOr140Char with toEmail <$toEmail>\n";
+	my $mytempScalar = scalar(@attachmentArray);
+	print LOG "there are this many attachments <$mytempScalar>\n";	
+	if (($mytempScalar > 0) or (length($theText) > 140)) {
+		print LOG "we believe there is an attachment so we will try to change the email address\n";
+		$toEmail =~ m/^(.*)(@.*)$/i;
+		my $sid = $1;
+		my $domain = $2;
+		print LOG "looking at this attachment and we have sid=<$sid> and domain=<$domain>\n";
+    		my $str = $connection->prepare("SELECT mmsDomain FROM sms2mmsEmails WHERE (smsDomain = \'$domain\')");
+    		$str->execute;  
+    		my @resultsCheck=$str->fetchrow_array;
+    		if (@resultsCheck) {
+			$toEmail = $sid . $resultsCheck[0];
+		}
+	}
+	print LOG "leaving makeToEmailBeMMSIfAttachmentsOr140Char with toEmail=<$toEmail>\n";
+}

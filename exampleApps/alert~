@@ -1,0 +1,151 @@
+Make sure codewords with periods work
+
+hey
+#Initialize the app 
+#create app
+*n hey 
+*x -a hey welcome blog 
+*e hey welcome **n Hi! Name your group. Text me the name and I will setup everything else up # # ##
+*e hey welcome **r public
+*r hey all
+
+#How to send out a message
+*x -a hey sendhey blog 
+*e hey sendhey **n Text me the message and I will send it out  # # ##
+*e hey sendhey **r public
+
+#The message is sent
+*x -a hey heyIsSent blog 
+*e hey heyIsSent **n The message was sent. Need more groups? Just text hey@mangojane.com to setup another one  # # ##
+*e hey heyIsSent **r public
+
+#private and public options
+*x -a hey makeHeyPublic blog 
+*e hey makeHeyPublic **n Right now you control who follows you. If you want to be public and let anyone follow you, text me back yes  # # ##
+*x -a hey makeHeyPrivate blog 
+*e hey makeHeyPrivate **n Anyone can follow you now. To make your group private again, text back yes  # # ##
+
+
+
+
+
+
+#Creating the different codewords
+#level 1 codewords
+
+
+
+
+hey codeword
+###
+### lets put everything below together
+###
+
+*c hey 
+	*m make.a.hey *e hey welcome **l 1 # # {-p} \#\#
+
+###
+### end putting everything together
+###
+#I want to:
+# 1. create codeword hey 
+*c hey 
+# 2. send back the "hey welcome" message via email make.a.hey
+*m make.a.hey *e hey welcome **l 1 # # {-p} ##
+#I 
+
+
+make.a.hey
+###
+###
+###Here is the final of everything below
+###
+###
+*c make.a.hey 
+	*c send.hey.to.jj 
+		*e hey jq **n \\q\\j # # {-p} \#\#	 
+	*c unfollow.jq 
+		*e hey jq **a -r -u \#\#	 
+	*c hey.jq 
+		*e hey jq **a -a -u -s \\#\\# *m unfollow.jq *e hey jq_welcome **l 1 # # {-p} \#\#
+	*c make.jq.public 
+		*e hey jq **r public \\#\\# *m make.jq.private *e hey makeHeyPrivate **l 1 # # {-p} \#\#
+	*c make.jq.private 
+		*e hey jq **r private \\#\\# *m make.jq.public *e hey makeHeyPublic **l 1 # # {-p} \#\#
+
+	*x -a hey jq blog *e hey jq **r private
+	*x -a hey jq_heyCreated blog 
+	*e hey jq_heyCreated **n hey.jq has been created! Anyone can request to join simply by emailing or texting hi to this address hey.jq@sambatop.com # # \#\#
+	*e hey jq_heyCreated **r public
+	*x -a hey jq_welcome blog
+	*e hey jq_welcome **n You have been added to the hey.jq. Simply text me back anytime to unfollow. Need to reach your group in seconds? Its free! Just text hi to hey@sambatop.com. We will get you setup in seconds # # \#\#
+	*e hey jq_welcome **r public
+	*m make.jq.public *e hey makeHeyPublic **l 1 # # {-p} \#\#	 
+	*m send.hey.to.jq *e hey sendhey **l 1 # # {-p} \#\# 
+	
+
+
+###
+###End final of everything below
+###
+#I want to:
+# 1. create codeword make.a.hey 
+*c make.a.hey
+# 2. create hey.jq codewords
+*see 3.1
+# 3. create unfollow.jq codeword
+*see 3.2 
+# 4. create send.hey.to.jq codeword
+*see 3.3
+# 4_1. create make.jq.public codeword
+*c make.jq.public *e hey jq **r public /#/# *m make.jq.private *e hey makeHeyPrivate **l 1 # # {-p} ##
+# 4_2. create make.jq.private codeword
+*c make.jq.public *e hey jq **r private /#/# *m make.jq.public *e hey makeHeyPublic **l 1 # # {-p} ##
+# 4.3. Send out the 'make public' text
+*m make.jq.public *e hey makeHeyPublic **l 1 # # {-p} ##
+# 5. send back the "hey sendhey" message via send.hey.to.jq
+*m send.hey.to.jq *e hey sendhey **l 1 # # {-p} ##
+# 6. create subApp with jq name and make it private
+*x -a hey jq blog *e hey jq **r private
+# 7. create message to state that this hey was created
+*x -a hey jq_heyCreated blog 
+*e hey jq_heyCreated **n hey.jq has been created! Anyone can request to join simply by emailing or texting hi to this address hey.jq@sambatop.com # # ##
+*e hey jq_heyCreated **r public
+# 8. create a message stating how to unfollow to this hey 
+*x -a hey jq_welcome blog
+*e hey jq_welcome **n You have been added to the hey.jq. Simply text me back anytime to unfollow # # ##
+*e hey jq_welcome **r public
+
+
+
+
+
+#level 2 codewords under make.a.hey
+3.1 #this is how the owner sends updates to this hey 
+###
+###
+###*c send.hey.to.jq (*e hey jq **n qj # # {-p} ##)
+###
+###
+#this is the code before it is hyphoned
+*e hey jq **n qj # # {-p} ##
+
+3.2 #this is how people unfollow to the jq hey 
+###
+###*c unfollow.jq (*e hey jq **a -r -u)
+###
+#this is the code unhyphoned
+*e hey jq **a -r -u
+
+3.3 #this is how people subscribe to the jq hey
+###
+###*c hey.jq (*e hey jq **a -a -u -s ## *m unfollow.jq *e hey jq_welcome **l 1 # # {-p} ##)
+###
+###
+#this is the code unhyphoned
+*e hey jq **a -a -u -s ## *m unfollow.jq *e hey jq_welcome **l 1 # # {-p} ##
+
+
+
+
+

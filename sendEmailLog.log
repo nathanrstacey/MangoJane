@@ -1,0 +1,433 @@
+Mar 18 14:42:06 anders sendEmail[16441]: DEBUG => Connecting to localhost:25
+Mar 18 14:42:06 anders sendEmail[16441]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:42:06 anders sendEmail[16441]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:42:06 anders sendEmail[16441]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:42:06 anders sendEmail[16441]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:42:06 anders sendEmail[16441]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:42:06 anders sendEmail[16441]: INFO => Sending: 	MAIL FROM:<chat.setup@mangojane.com>
+Mar 18 14:42:06 anders sendEmail[16441]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:42:06 anders sendEmail[16441]: INFO => Sending: 	RCPT TO:<nathanrstacey@gmail.com>
+Mar 18 14:42:06 anders sendEmail[16441]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:42:06 anders sendEmail[16441]: INFO => Sending: 	DATA
+Mar 18 14:42:06 anders sendEmail[16441]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:42:06 anders sendEmail[16441]: INFO => Sending message body
+Mar 18 14:42:06 anders sendEmail[16441]: Setting content-type: text/html
+Mar 18 14:42:06 anders sendEmail[16441]: SUCCESS => Received: 	250 2.0.0 Ok: queued as D2459200A2
+Mar 18 14:42:06 anders sendEmail[16441]: Email was sent successfully!  From: <chat.setup@mangojane.com> To: <nathanrstacey@gmail.com> Server: [localhost:25]
+Mar 18 14:42:11 anders sendEmail[16460]: DEBUG => Connecting to localhost:25
+Mar 18 14:42:11 anders sendEmail[16460]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:42:11 anders sendEmail[16460]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:42:11 anders sendEmail[16460]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:42:11 anders sendEmail[16460]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:42:11 anders sendEmail[16460]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:42:11 anders sendEmail[16460]: INFO => Sending: 	MAIL FROM:<chat.setup@mangojane.com>
+Mar 18 14:42:11 anders sendEmail[16460]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:42:11 anders sendEmail[16460]: INFO => Sending: 	RCPT TO:<nathanrstacey@gmail.com>
+Mar 18 14:42:11 anders sendEmail[16460]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:42:11 anders sendEmail[16460]: INFO => Sending: 	DATA
+Mar 18 14:42:11 anders sendEmail[16460]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:42:11 anders sendEmail[16460]: INFO => Sending message body
+Mar 18 14:42:11 anders sendEmail[16460]: Setting content-type: text/html
+Mar 18 14:42:11 anders sendEmail[16460]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 3737E200A2
+Mar 18 14:42:11 anders sendEmail[16460]: Email was sent successfully!  From: <chat.setup@mangojane.com> To: <nathanrstacey@gmail.com> Server: [localhost:25]
+Mar 18 14:43:26 anders sendEmail[16673]: DEBUG => Connecting to localhost:25
+Mar 18 14:43:26 anders sendEmail[16673]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:43:26 anders sendEmail[16673]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:43:26 anders sendEmail[16673]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:43:26 anders sendEmail[16673]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:43:26 anders sendEmail[16673]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:43:26 anders sendEmail[16673]: INFO => Sending: 	MAIL FROM:<begin@mangojane.com>
+Mar 18 14:43:26 anders sendEmail[16673]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:43:26 anders sendEmail[16673]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:43:26 anders sendEmail[16673]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:43:26 anders sendEmail[16673]: INFO => Sending: 	DATA
+Mar 18 14:43:26 anders sendEmail[16673]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:43:26 anders sendEmail[16673]: INFO => Sending message body
+Mar 18 14:43:26 anders sendEmail[16673]: Setting content-type: text/html
+Mar 18 14:43:27 anders sendEmail[16673]: SUCCESS => Received: 	250 2.0.0 Ok: queued as F22B6200A2
+Mar 18 14:43:27 anders sendEmail[16673]: Email was sent successfully!  From: <begin@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:43:48 anders sendEmail[16756]: DEBUG => Connecting to localhost:25
+Mar 18 14:43:48 anders sendEmail[16756]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:43:48 anders sendEmail[16756]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:43:48 anders sendEmail[16756]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:43:48 anders sendEmail[16756]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:43:48 anders sendEmail[16756]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:43:48 anders sendEmail[16756]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:43:48 anders sendEmail[16756]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:43:48 anders sendEmail[16756]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:43:48 anders sendEmail[16756]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:43:48 anders sendEmail[16756]: INFO => Sending: 	DATA
+Mar 18 14:43:48 anders sendEmail[16756]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:43:48 anders sendEmail[16756]: INFO => Sending message body
+Mar 18 14:43:48 anders sendEmail[16756]: Setting content-type: text/html
+Mar 18 14:43:48 anders sendEmail[16756]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 0C9DE200A2
+Mar 18 14:43:48 anders sendEmail[16756]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:43:52 anders sendEmail[16776]: DEBUG => Connecting to localhost:25
+Mar 18 14:43:52 anders sendEmail[16776]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:43:52 anders sendEmail[16776]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:43:52 anders sendEmail[16776]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:43:52 anders sendEmail[16776]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:43:52 anders sendEmail[16776]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:43:52 anders sendEmail[16776]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:43:52 anders sendEmail[16776]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:43:52 anders sendEmail[16776]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:43:52 anders sendEmail[16776]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:43:52 anders sendEmail[16776]: INFO => Sending: 	DATA
+Mar 18 14:43:52 anders sendEmail[16776]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:43:52 anders sendEmail[16776]: INFO => Sending message body
+Mar 18 14:43:52 anders sendEmail[16776]: Setting content-type: text/html
+Mar 18 14:43:52 anders sendEmail[16776]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 6ACEA200A2
+Mar 18 14:43:52 anders sendEmail[16776]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:43:56 anders sendEmail[16795]: DEBUG => Connecting to localhost:25
+Mar 18 14:43:56 anders sendEmail[16795]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:43:56 anders sendEmail[16795]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:43:56 anders sendEmail[16795]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:43:56 anders sendEmail[16795]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:43:56 anders sendEmail[16795]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:43:56 anders sendEmail[16795]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:43:56 anders sendEmail[16795]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:43:56 anders sendEmail[16795]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:43:56 anders sendEmail[16795]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:43:56 anders sendEmail[16795]: INFO => Sending: 	DATA
+Mar 18 14:43:56 anders sendEmail[16795]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:43:56 anders sendEmail[16795]: INFO => Sending message body
+Mar 18 14:43:56 anders sendEmail[16795]: Setting content-type: text/html
+Mar 18 14:43:56 anders sendEmail[16795]: SUCCESS => Received: 	250 2.0.0 Ok: queued as C70EE200A2
+Mar 18 14:43:56 anders sendEmail[16795]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:44:17 anders sendEmail[16861]: DEBUG => Connecting to localhost:25
+Mar 18 14:44:17 anders sendEmail[16861]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:44:17 anders sendEmail[16861]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:44:17 anders sendEmail[16861]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:44:17 anders sendEmail[16861]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:44:17 anders sendEmail[16861]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:44:17 anders sendEmail[16861]: INFO => Sending: 	MAIL FROM:<chat.setup@mangojane.com>
+Mar 18 14:44:17 anders sendEmail[16861]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:44:17 anders sendEmail[16861]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:44:17 anders sendEmail[16861]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:44:17 anders sendEmail[16861]: INFO => Sending: 	DATA
+Mar 18 14:44:17 anders sendEmail[16861]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:44:17 anders sendEmail[16861]: INFO => Sending message body
+Mar 18 14:44:17 anders sendEmail[16861]: Setting content-type: text/html
+Mar 18 14:44:17 anders sendEmail[16861]: SUCCESS => Received: 	250 2.0.0 Ok: queued as DCCA1200A2
+Mar 18 14:44:17 anders sendEmail[16861]: Email was sent successfully!  From: <chat.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:45:46 anders sendEmail[17130]: DEBUG => Connecting to localhost:25
+Mar 18 14:45:46 anders sendEmail[17130]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:45:46 anders sendEmail[17130]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:45:46 anders sendEmail[17130]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:45:46 anders sendEmail[17130]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:45:46 anders sendEmail[17130]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:45:46 anders sendEmail[17130]: INFO => Sending: 	MAIL FROM:<begin@mangojane.com>
+Mar 18 14:45:46 anders sendEmail[17130]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:45:46 anders sendEmail[17130]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:45:46 anders sendEmail[17130]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:45:46 anders sendEmail[17130]: INFO => Sending: 	DATA
+Mar 18 14:45:46 anders sendEmail[17130]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:45:46 anders sendEmail[17130]: INFO => Sending message body
+Mar 18 14:45:46 anders sendEmail[17130]: Setting content-type: text/html
+Mar 18 14:45:46 anders sendEmail[17130]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 294EB200A2
+Mar 18 14:45:46 anders sendEmail[17130]: Email was sent successfully!  From: <begin@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:46:07 anders sendEmail[17250]: DEBUG => Connecting to localhost:25
+Mar 18 14:46:07 anders sendEmail[17250]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:46:07 anders sendEmail[17250]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:46:07 anders sendEmail[17250]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:46:07 anders sendEmail[17250]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:46:07 anders sendEmail[17250]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:46:07 anders sendEmail[17250]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:46:07 anders sendEmail[17250]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:46:07 anders sendEmail[17250]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:46:07 anders sendEmail[17250]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:46:07 anders sendEmail[17250]: INFO => Sending: 	DATA
+Mar 18 14:46:07 anders sendEmail[17250]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:46:07 anders sendEmail[17250]: INFO => Sending message body
+Mar 18 14:46:07 anders sendEmail[17250]: Setting content-type: text/html
+Mar 18 14:46:07 anders sendEmail[17250]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 61860200A2
+Mar 18 14:46:07 anders sendEmail[17250]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:46:11 anders sendEmail[17270]: DEBUG => Connecting to localhost:25
+Mar 18 14:46:11 anders sendEmail[17270]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:46:11 anders sendEmail[17270]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:46:11 anders sendEmail[17270]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:46:11 anders sendEmail[17270]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:46:11 anders sendEmail[17270]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:46:11 anders sendEmail[17270]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:46:11 anders sendEmail[17270]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:46:11 anders sendEmail[17270]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:46:11 anders sendEmail[17270]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:46:11 anders sendEmail[17270]: INFO => Sending: 	DATA
+Mar 18 14:46:11 anders sendEmail[17270]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:46:11 anders sendEmail[17270]: INFO => Sending message body
+Mar 18 14:46:11 anders sendEmail[17270]: Setting content-type: text/html
+Mar 18 14:46:11 anders sendEmail[17270]: SUCCESS => Received: 	250 2.0.0 Ok: queued as B3A3D200A2
+Mar 18 14:46:11 anders sendEmail[17270]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:46:16 anders sendEmail[17289]: DEBUG => Connecting to localhost:25
+Mar 18 14:46:16 anders sendEmail[17289]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:46:16 anders sendEmail[17289]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:46:16 anders sendEmail[17289]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:46:16 anders sendEmail[17289]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:46:16 anders sendEmail[17289]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:46:16 anders sendEmail[17289]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:46:16 anders sendEmail[17289]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:46:16 anders sendEmail[17289]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:46:16 anders sendEmail[17289]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:46:16 anders sendEmail[17289]: INFO => Sending: 	DATA
+Mar 18 14:46:16 anders sendEmail[17289]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:46:16 anders sendEmail[17289]: INFO => Sending message body
+Mar 18 14:46:16 anders sendEmail[17289]: Setting content-type: text/html
+Mar 18 14:46:16 anders sendEmail[17289]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 1A3CE200A2
+Mar 18 14:46:16 anders sendEmail[17289]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:46:37 anders sendEmail[17368]: DEBUG => Connecting to localhost:25
+Mar 18 14:46:37 anders sendEmail[17368]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:46:37 anders sendEmail[17368]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:46:37 anders sendEmail[17368]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:46:37 anders sendEmail[17368]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:46:37 anders sendEmail[17368]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:46:37 anders sendEmail[17368]: INFO => Sending: 	MAIL FROM:<chat.setup@mangojane.com>
+Mar 18 14:46:37 anders sendEmail[17368]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:46:37 anders sendEmail[17368]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:46:37 anders sendEmail[17368]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:46:37 anders sendEmail[17368]: INFO => Sending: 	DATA
+Mar 18 14:46:37 anders sendEmail[17368]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:46:37 anders sendEmail[17368]: INFO => Sending message body
+Mar 18 14:46:37 anders sendEmail[17368]: Setting content-type: text/html
+Mar 18 14:46:37 anders sendEmail[17368]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 1E309200A2
+Mar 18 14:46:37 anders sendEmail[17368]: Email was sent successfully!  From: <chat.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => Connecting to localhost:25
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => evalSMTPresponse() - Found SMTP success code: 220
+Mar 18 14:58:56 anders sendEmail[19405]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:58:56 anders sendEmail[19405]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:58:56 anders sendEmail[19405]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => The remote SMTP server supports TLS :)
+Mar 18 14:58:56 anders sendEmail[19405]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:58:56 anders sendEmail[19405]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:58:56 anders sendEmail[19405]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:58:56 anders sendEmail[19405]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:58:56 anders sendEmail[19405]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:58:56 anders sendEmail[19405]: INFO => Sending: 	DATA
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => evalSMTPresponse() - Found SMTP success code: 354
+Mar 18 14:58:56 anders sendEmail[19405]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:58:56 anders sendEmail[19405]: INFO => Sending message body
+Mar 18 14:58:56 anders sendEmail[19405]: Setting content-type: text/html
+Mar 18 14:58:56 anders sendEmail[19405]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:58:56 anders sendEmail[19405]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 35D5B200A2
+Mar 18 14:58:56 anders sendEmail[19405]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => Connecting to localhost:25
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => evalSMTPresponse() - Found SMTP success code: 220
+Mar 18 14:59:51 anders sendEmail[19556]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 14:59:51 anders sendEmail[19556]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:59:51 anders sendEmail[19556]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => The remote SMTP server supports TLS :)
+Mar 18 14:59:51 anders sendEmail[19556]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 14:59:51 anders sendEmail[19556]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:59:51 anders sendEmail[19556]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 14:59:51 anders sendEmail[19556]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:59:51 anders sendEmail[19556]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 14:59:51 anders sendEmail[19556]: INFO => Sending: 	DATA
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => evalSMTPresponse() - Found SMTP success code: 354
+Mar 18 14:59:51 anders sendEmail[19556]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 14:59:51 anders sendEmail[19556]: INFO => Sending message body
+Mar 18 14:59:51 anders sendEmail[19556]: Setting content-type: text/html
+Mar 18 14:59:51 anders sendEmail[19556]: DEBUG => evalSMTPresponse() - Found SMTP success code: 250
+Mar 18 14:59:51 anders sendEmail[19556]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 932BD200A2
+Mar 18 14:59:51 anders sendEmail[19556]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:03:08 anders sendEmail[20078]: DEBUG => Connecting to localhost:25
+Mar 18 15:03:08 anders sendEmail[20078]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:03:08 anders sendEmail[20078]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:03:08 anders sendEmail[20078]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:03:08 anders sendEmail[20078]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:03:08 anders sendEmail[20078]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 15:03:08 anders sendEmail[20078]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:03:08 anders sendEmail[20078]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:03:08 anders sendEmail[20078]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:03:08 anders sendEmail[20078]: INFO => Sending: 	DATA
+Mar 18 15:03:08 anders sendEmail[20078]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:03:08 anders sendEmail[20078]: INFO => Sending message body
+Mar 18 15:03:08 anders sendEmail[20078]: Setting content-type: text/plain
+Mar 18 15:03:08 anders sendEmail[20078]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 2B8B9200A2
+Mar 18 15:03:08 anders sendEmail[20078]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:15:23 anders sendEmail[22243]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:15:23 anders sendEmail[22243]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:15:44 anders sendEmail[22323]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:15:44 anders sendEmail[22323]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:15:48 anders sendEmail[22342]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:15:48 anders sendEmail[22342]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:15:53 anders sendEmail[22364]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:15:53 anders sendEmail[22364]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:16:14 anders sendEmail[22429]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:16:14 anders sendEmail[22429]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:18:23 anders sendEmail[22860]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:18:23 anders sendEmail[22860]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:18:44 anders sendEmail[22941]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:18:44 anders sendEmail[22941]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:18:48 anders sendEmail[22960]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:18:48 anders sendEmail[22960]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:18:53 anders sendEmail[22978]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:18:53 anders sendEmail[22978]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:19:13 anders sendEmail[23043]: ERROR => Message body file specified [/var/mangojane/message.txt] does not exist!
+Mar 18 15:19:13 anders sendEmail[23043]: HINT => 1) check spelling of your file; 2) fully qualify the path; 3) doubble quote it
+Mar 18 15:23:57 anders sendEmail[23958]: DEBUG => Connecting to localhost:25
+Mar 18 15:23:57 anders sendEmail[23958]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:23:57 anders sendEmail[23958]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:23:57 anders sendEmail[23958]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:23:57 anders sendEmail[23958]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:23:57 anders sendEmail[23958]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:23:57 anders sendEmail[23958]: INFO => Sending: 	MAIL FROM:<begin@mangojane.com>
+Mar 18 15:23:57 anders sendEmail[23958]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:23:57 anders sendEmail[23958]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:23:57 anders sendEmail[23958]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:23:57 anders sendEmail[23958]: INFO => Sending: 	DATA
+Mar 18 15:23:57 anders sendEmail[23958]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:23:57 anders sendEmail[23958]: INFO => Sending message body
+Mar 18 15:23:57 anders sendEmail[23958]: Setting content-type: text/plain
+Mar 18 15:23:57 anders sendEmail[23958]: SUCCESS => Received: 	250 2.0.0 Ok: queued as B56AF200A2
+Mar 18 15:23:57 anders sendEmail[23958]: Email was sent successfully!  From: <begin@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:24:18 anders sendEmail[24040]: DEBUG => Connecting to localhost:25
+Mar 18 15:24:18 anders sendEmail[24040]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:24:18 anders sendEmail[24040]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:24:18 anders sendEmail[24040]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:24:18 anders sendEmail[24040]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:24:18 anders sendEmail[24040]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:24:18 anders sendEmail[24040]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 15:24:18 anders sendEmail[24040]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:24:18 anders sendEmail[24040]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:24:18 anders sendEmail[24040]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:24:18 anders sendEmail[24040]: INFO => Sending: 	DATA
+Mar 18 15:24:18 anders sendEmail[24040]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:24:18 anders sendEmail[24040]: INFO => Sending message body
+Mar 18 15:24:18 anders sendEmail[24040]: Setting content-type: text/plain
+Mar 18 15:24:18 anders sendEmail[24040]: SUCCESS => Received: 	250 2.0.0 Ok: queued as BA407200A2
+Mar 18 15:24:18 anders sendEmail[24040]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:24:23 anders sendEmail[24059]: DEBUG => Connecting to localhost:25
+Mar 18 15:24:23 anders sendEmail[24059]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:24:23 anders sendEmail[24059]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:24:23 anders sendEmail[24059]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:24:23 anders sendEmail[24059]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:24:23 anders sendEmail[24059]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:24:23 anders sendEmail[24059]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 15:24:23 anders sendEmail[24059]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:24:23 anders sendEmail[24059]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:24:23 anders sendEmail[24059]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:24:23 anders sendEmail[24059]: INFO => Sending: 	DATA
+Mar 18 15:24:23 anders sendEmail[24059]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:24:23 anders sendEmail[24059]: INFO => Sending message body
+Mar 18 15:24:23 anders sendEmail[24059]: Setting content-type: text/plain
+Mar 18 15:24:23 anders sendEmail[24059]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 0E9BC200A2
+Mar 18 15:24:23 anders sendEmail[24059]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:24:27 anders sendEmail[24077]: DEBUG => Connecting to localhost:25
+Mar 18 15:24:27 anders sendEmail[24077]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:24:27 anders sendEmail[24077]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:24:27 anders sendEmail[24077]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:24:27 anders sendEmail[24077]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:24:27 anders sendEmail[24077]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:24:27 anders sendEmail[24077]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 15:24:27 anders sendEmail[24077]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:24:27 anders sendEmail[24077]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:24:27 anders sendEmail[24077]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:24:27 anders sendEmail[24077]: INFO => Sending: 	DATA
+Mar 18 15:24:27 anders sendEmail[24077]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:24:27 anders sendEmail[24077]: INFO => Sending message body
+Mar 18 15:24:27 anders sendEmail[24077]: Setting content-type: text/plain
+Mar 18 15:24:27 anders sendEmail[24077]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 584E0200A2
+Mar 18 15:24:27 anders sendEmail[24077]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:24:48 anders sendEmail[24142]: DEBUG => Connecting to localhost:25
+Mar 18 15:24:48 anders sendEmail[24142]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:24:48 anders sendEmail[24142]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:24:48 anders sendEmail[24142]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:24:48 anders sendEmail[24142]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:24:48 anders sendEmail[24142]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:24:48 anders sendEmail[24142]: INFO => Sending: 	MAIL FROM:<chat.setup@mangojane.com>
+Mar 18 15:24:48 anders sendEmail[24142]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:24:48 anders sendEmail[24142]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:24:48 anders sendEmail[24142]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:24:48 anders sendEmail[24142]: INFO => Sending: 	DATA
+Mar 18 15:24:48 anders sendEmail[24142]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:24:48 anders sendEmail[24142]: INFO => Sending message body
+Mar 18 15:24:48 anders sendEmail[24142]: Setting content-type: text/plain
+Mar 18 15:24:48 anders sendEmail[24142]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 5ABFA200A2
+Mar 18 15:24:48 anders sendEmail[24142]: Email was sent successfully!  From: <chat.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:26:08 anders sendEmail[24509]: DEBUG => Connecting to localhost:25
+Mar 18 15:26:08 anders sendEmail[24509]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:26:08 anders sendEmail[24509]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:26:08 anders sendEmail[24509]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:26:08 anders sendEmail[24509]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:26:08 anders sendEmail[24509]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:26:08 anders sendEmail[24509]: INFO => Sending: 	MAIL FROM:<begin@mangojane.com>
+Mar 18 15:26:08 anders sendEmail[24509]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:26:08 anders sendEmail[24509]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:26:08 anders sendEmail[24509]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:26:08 anders sendEmail[24509]: INFO => Sending: 	DATA
+Mar 18 15:26:08 anders sendEmail[24509]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:26:08 anders sendEmail[24509]: INFO => Sending message body
+Mar 18 15:26:08 anders sendEmail[24509]: Setting content-type: text/html
+Mar 18 15:26:08 anders sendEmail[24509]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 08E5B200A2
+Mar 18 15:26:08 anders sendEmail[24509]: Email was sent successfully!  From: <begin@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:26:28 anders sendEmail[24589]: DEBUG => Connecting to localhost:25
+Mar 18 15:26:28 anders sendEmail[24589]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:26:28 anders sendEmail[24589]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:26:28 anders sendEmail[24589]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:26:28 anders sendEmail[24589]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:26:28 anders sendEmail[24589]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:26:28 anders sendEmail[24589]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 15:26:28 anders sendEmail[24589]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:26:28 anders sendEmail[24589]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:26:28 anders sendEmail[24589]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:26:28 anders sendEmail[24589]: INFO => Sending: 	DATA
+Mar 18 15:26:28 anders sendEmail[24589]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:26:28 anders sendEmail[24589]: INFO => Sending message body
+Mar 18 15:26:28 anders sendEmail[24589]: Setting content-type: text/html
+Mar 18 15:26:29 anders sendEmail[24589]: SUCCESS => Received: 	250 2.0.0 Ok: queued as EF18D200A2
+Mar 18 15:26:29 anders sendEmail[24589]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:26:33 anders sendEmail[24608]: DEBUG => Connecting to localhost:25
+Mar 18 15:26:33 anders sendEmail[24608]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:26:33 anders sendEmail[24608]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:26:33 anders sendEmail[24608]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:26:33 anders sendEmail[24608]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:26:33 anders sendEmail[24608]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:26:33 anders sendEmail[24608]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 15:26:33 anders sendEmail[24608]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:26:33 anders sendEmail[24608]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:26:33 anders sendEmail[24608]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:26:33 anders sendEmail[24608]: INFO => Sending: 	DATA
+Mar 18 15:26:33 anders sendEmail[24608]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:26:33 anders sendEmail[24608]: INFO => Sending message body
+Mar 18 15:26:33 anders sendEmail[24608]: Setting content-type: text/html
+Mar 18 15:26:33 anders sendEmail[24608]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 46E3B200A2
+Mar 18 15:26:33 anders sendEmail[24608]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:26:37 anders sendEmail[24626]: DEBUG => Connecting to localhost:25
+Mar 18 15:26:37 anders sendEmail[24626]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:26:37 anders sendEmail[24626]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:26:37 anders sendEmail[24626]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:26:37 anders sendEmail[24626]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:26:37 anders sendEmail[24626]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:26:37 anders sendEmail[24626]: INFO => Sending: 	MAIL FROM:<notify.setup@mangojane.com>
+Mar 18 15:26:37 anders sendEmail[24626]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:26:37 anders sendEmail[24626]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:26:37 anders sendEmail[24626]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:26:37 anders sendEmail[24626]: INFO => Sending: 	DATA
+Mar 18 15:26:37 anders sendEmail[24626]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:26:37 anders sendEmail[24626]: INFO => Sending message body
+Mar 18 15:26:37 anders sendEmail[24626]: Setting content-type: text/html
+Mar 18 15:26:37 anders sendEmail[24626]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 91B2E200A2
+Mar 18 15:26:37 anders sendEmail[24626]: Email was sent successfully!  From: <notify.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]
+Mar 18 15:26:58 anders sendEmail[24691]: DEBUG => Connecting to localhost:25
+Mar 18 15:26:58 anders sendEmail[24691]: DEBUG => My IP address is: 127.0.0.1
+Mar 18 15:26:58 anders sendEmail[24691]: SUCCESS => Received: 	220 localhost ESMTP Postfix (Ubuntu)
+Mar 18 15:26:58 anders sendEmail[24691]: INFO => Sending: 	EHLO anders.mangojane.com
+Mar 18 15:26:58 anders sendEmail[24691]: SUCCESS => Received: 	250-localhost, 250-PIPELINING, 250-SIZE 10240000, 250-VRFY, 250-ETRN, 250-STARTTLS, 250-ENHANCEDSTATUSCODES, 250-8BITMIME, 250 DSN
+Mar 18 15:26:58 anders sendEmail[24691]: NOTICE => Authentication not supported by the remote SMTP server!
+Mar 18 15:26:58 anders sendEmail[24691]: INFO => Sending: 	MAIL FROM:<chat.setup@mangojane.com>
+Mar 18 15:26:58 anders sendEmail[24691]: SUCCESS => Received: 	250 2.1.0 Ok
+Mar 18 15:26:58 anders sendEmail[24691]: INFO => Sending: 	RCPT TO:<4438327080@vtext.com>
+Mar 18 15:26:58 anders sendEmail[24691]: SUCCESS => Received: 	250 2.1.5 Ok
+Mar 18 15:26:58 anders sendEmail[24691]: INFO => Sending: 	DATA
+Mar 18 15:26:58 anders sendEmail[24691]: SUCCESS => Received: 	354 End data with <CR><LF>.<CR><LF>
+Mar 18 15:26:58 anders sendEmail[24691]: INFO => Sending message body
+Mar 18 15:26:58 anders sendEmail[24691]: Setting content-type: text/html
+Mar 18 15:26:58 anders sendEmail[24691]: SUCCESS => Received: 	250 2.0.0 Ok: queued as 950BD200A2
+Mar 18 15:26:58 anders sendEmail[24691]: Email was sent successfully!  From: <chat.setup@mangojane.com> To: <4438327080@vtext.com> Server: [localhost:25]

@@ -1,0 +1,51 @@
+#
+#Pre
+#
+#these make sure your ubuntu is up-to-date
+1. type in terminal: <sudo apt-get update>
+2. type in terminal: <sudo apt-get dist-upgrade>
+#
+#
+# Run the pre bash file to create folders just in case they are required
+3. type in terminal: <sudo bash mango_jane_install>
+
+#
+#Install mysql
+#
+#Mango Jane allows the MYSQL server to have 
+#different names and passwords via 
+#file 'configuration.d'. Below sets the 
+#default values
+1. type in terminal: <sudo apt-get install mysql-server mysql-client>
+1a. when asked the Default Password is: <1qazZAQ!>
+2. type in terminal: <mysql -u root -p>
+2a. when asked, type in the password <1qazZAQ!>
+3. type in terminal: <CREATE DATABASE txtCLI;>
+4. type in terminal: <quit;>
+#The next few steps fill in the database with the table schemas and 
+#also populates a few tables needed for Mango Jane to work correctly
+5. type in terminal: <mysql -u root -p -h localhost txtCLI < mysql_schemas.sql>
+6. type in the terminal: <mysql -u root -p -h localhost txtCLI < sms2mmsemails.sql>
+
+
+
+
+#
+#Setup Perl and all of Mango Jane's required modules
+#
+#we will use cpan to install the following modules
+#Mail::POP3Client
+#MIME::Parser
+1. Type in terminal: <sudo  apt-get install build-essential>
+2. <cpan>
+3. <make install>
+4. <install Mail::POP3Client> 
+5. <install MIME::Parser>
+6. <quit>
+
+
+
+#
+#install sendemail
+#
+1. Type in terminal: <apt-get install sendemail>

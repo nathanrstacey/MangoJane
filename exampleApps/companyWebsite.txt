@@ -1,0 +1,109 @@
+Prep
+*n companysite *r companysite admin
+*x -a companysite new blog *e companysite new **r public *e companysite new
+**n Text me back the name of your company. We will then start creating your
+site! # #
+*x -a companysite edit_about_us blog *e companysite edit_about_us **r
+public *e companysite edit_about_us **n Text me back to edit the about_us
+feature of your site. Remember contact info and your elevator speech! # #
+*x -a companysite add_news blog *e companysite add_news **r public *e
+companysite add_news **n Text back any news for your company. Customers
+will see the last 5 items # #
+*x -a companysite add_goods blog *e companysite add_goods **r public *e
+companysite add_goods **n Text me the name of a product or service you
+provide. One word only # #
+*x -a companysite post_successful blog *e companysite post_successful **r
+public *e companysite post_successful **n The post was successful!# #
+*x -a companysite edit_goods blog *e companysite edit_goods **r public *e
+companysite edit_goods **n To edit this products description text me back
+the new post # #
+*x -a companysite welcome blog *e companysite welcome **r public *e
+companysite welcome **n Welcome to companysite. You should receive texts
+from other addresses to assist you with this app # #
+*x -a companysite interaction blog *e companysite interaction **r public *e
+companysite interaction **n Text me back to begin the process of adding one
+of the following interactive abilities for your companysite\n1. a way for
+customers to send you requests\n2. a way to add white papers, training, or
+other general information\n3. a way to modify your admins # #
+*n co_requests *r co_requests all
+*x -a co_requests request_setup blog ## *e co_requests request_setup **r public
+*x -a co_requests new_interaction blog ## *e co_requests new_interaction **r public
+*n co_docs *r co_docs all
+*x -a co_docs new blog *e co_docs new **r public
+*x -a co_docs search blog *e co_docs search **r public
+*x -a co_docs add blog *e co_docs add **r public
+*e co_docs search **n Text me back your search term to help find the document you are looking for # # 
+*x -a companysite goods_search blog *e companysite goods_search **r public
+*e companysite goods_search **n Text me back to search through this
+companies different goods # #
+*e co_requests request_setup **n Customers will send their requests to this
+address # #
+*e co_requests new_interaction **n Text me back to add the following
+interactive abilities 1. ability for customers to send you requests 2.
+ability to change admins to this site 3. ability to add documents for
+customers to search through # #
+*e co_docs add **n Text me back any literature you wish customers to be
+able to search for. Training, pictures, white papers, anything # # 
+*e jq_company add_admin_successful **n To complete the admin change, the
+new admin must text anything to jq_change_admins_confirm@sambatop.com # #
+*e companysite remove_admin_successful **n That admin was successfully
+removed # #
+*e companysite add_admins **n Text a new admin name. Remember you can only
+have 3 total admins. Usually these names look like 4893285843@vtext.com # #
+*e companysite remove_admins Text an admin name to remove. Remember you can
+only have 3 total admins. Usually these names look like 4893285843@vtext.co=
+m# #
+*e companysite add_admin_confirm_successful **n You are now an admin to
+this site # #
+*x -a co_requests customer_welcome blog ## *e co_requests customer_welcome **r public
+*e co_requests customer_welcome **n Text me back to talk with the company.
+If you request a response, please provide contact info # #
+
+
+
+
+
+Initial Codewords
+companysite
+*c companysite *m companysite_new *e companysite new **l 1 # # {-p} \#\#
+
+
+*c companysite_new *n jj_company \#\# *r jq_company admin *x -a jq_company
+about_us blog \#\# *e jq_company about_us **r public \#\# *m
+jq_edit_about_us \#\# *e companysite edit_about_us **l 1 # # {-p} \#\# *x
+-a jq_company news blog \#\# *e jq_company news **r public \#\# *m
+jq_add_news *e companysite add_news **l 1 # # {-p} \#\# *m jq_add_goods
+\#\# *e companysite add_goods **l 1 # # {-p} \#\# *c jq_goods_search *b jq_company \\q\\j # # -st:{-p} \\#\\# \#\# *m jq_interaction \#\# *e
+companysite interaction **l 1 # # {-p} # # \#\# *c jq_edit_about_us *e
+jq_company about_us **n \\q\\j # # {-p} \\#\\# *e companysite
+post_successful **l 1 # # {-p} \\#\\# \#\# *c jq_add_news *e jq_company
+news **n \\q\\j # # {-p} \\#\\# *e companysite post_successful **l 1 # #
+{-p} \\#\\# \#\# *c jq_interaction *x -a co_requests jq blog \\#\\# *e
+co_requests jq **r private \\#\\# *e co_requests jq **o open \\#\\# *e co_requests jq **a -a -u -s \\#\\# *m
+jq_request *e co_requests request_setup **l 1 # # {-p} \\#\\# *c jq_request
+*e co_requests jq **n \\\\q\\\\j # # {-a requests: -p} \\\#\\\# *e companysite
+post_successful **l 1 # # {-p} \\#\\# *c jq_add_docs *e co_docs \j\q **n
+\\\\q\\\\j # # \\#\\# *m jq_add_docs *e co_docs add **l 1 # # {-p} \\#\\# *m jq_docs_search
+*x -a co_docs jq blog \\#\\# *e co_docs search **l 1 # # {-p} \\#\\# *c
+jq_docs_search *e co_docs jq **b \\\\q\\\\j # # -st:-e{-b-p} \\#\\# *c jq_company
+*m jq_company *e jq_company about_us **l 1 # # {-p} \\\#\\\# *e jq_company
+news **l 3 # # Latest News:-e{-b-p} \\\#\\\# *m jq_goods_search *e
+companysite goods_search **l 1 # # {-p} \\\#\\\# *m jq_docs_search *e co_docs
+search **l 1 # # {-p} \\\#\\\# *m jq_request *e co_requests
+customer_welcome **l 1 # # {-p} \\\#\\\# \\#\\# \#\# *c jq_add_goods *x -a jq_company
+\\j\\j blog *e jq_company \\j\\q **r public \\#\\# *m
+edit_\\j\\q_jq_company *e companysite edit_goods **l 1 # # {-p} \\#\\# *c
+edit_\\j\\q_jq_company *x -r jq_company \\j\\q \\\#\\\# *x -a jq_company
+\\j\\q blog *e jq_company \\j\\q **r public \\\#\\\# *e jq_company \\j\\q **n
+\\\\q\\\\j # # {-p} \\\#\\\# *e companysite post_successful **l 1 # #
+{-p} \\#\\# \#\# *c jq_company *m jq_company *e jq_company about_us **l 1
+# # {-p} \\#\\# *e jq_company news **l 3 # # Latest News:-e{-b-p} \\#\\# *m
+jq_goods_search *e companysite goods_search **l 1 # # {-p} \\#\\# \#\# *g jq_company -a -u \#\# 
+
+
+
+
+
+
+
+

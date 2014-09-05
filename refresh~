@@ -1,0 +1,5 @@
+#!/bin/bash 
+
+perl refresh_configuration_file.pl
+perl appendPerlFilesWithGlobalVariables.pl
+perl appendall_shWithGlobalVariables.pl

@@ -1,0 +1,99 @@
+my $global_email_Server_Name = 'mail.sambatop.com';
+my $global_email_Main_User_Name = 'home@sambatop.com';
+my $global_email_Mail_User_Password = '1qazZAQ!';
+my $global_email_url = 'sambatop.com';
+my $global_email_uses_SSL = '0';
+my $global_MYSQL_host = 'localhost';
+my $global_MYSQL_database = 'txtCLI';
+my $global_MYSQL_username = 'root';
+my $global_MYSQL_password = 'mullet11';
+my $global_admins = 'all';
+
+
+
+
+#!/usr/bin/perl -w
+use strict;
+use Time::HiRes qw(gettimeofday);
+
+my $timeStamp = int (gettimeofday * 1000000000);
+my @variableArray; 
+my $isFirstTimeInSendEmail = 1;
+use Time::HiRes qw(gettimeofday);
+use Cwd;
+my $dir = getcwd;
+open (LOG, ">logs\/log_startsendEmail.txt");
+
+#change the extension here
+my $workToDoDir = $dir . '/workToDo/';
+my $doneWorkToDoDir = $dir . '/doneWorkToDo/';
+my @files = <workToDo/*medc>;
+my @files1 = sort @files;
+@files = @files1;
+my $theFileName;
+my $variableStringForExec = "";
+print LOG "Starting to look at all files. There are $#files total files\n";
+foreach $theFileName (@files) {
+	my $timeStampFile = 99999999999;
+	$variableStringForExec = "";
+	my $fileNameWithoutFolderExtension;
+	if ($theFileName =~ /workToDo\/(.*\.medc)$/) {
+		$fileNameWithoutFolderExtension = $1;
+		if ($theFileName =~ /workToDo\/(\d+).*\.medc$/) {
+			$timeStampFile = $1;
+		}
+			
+	}
+	if ($timeStamp >= $timeStampFile) {
+		print LOG "found $theFileName and its timestamp is less than this startTime\n";
+		#print "\n" . $theFileName . "\n";
+  		open (INPUT, "$theFileName");
+		my @lines = <INPUT>;
+		if ($#lines > 0) {
+			chomp (@lines);
+			my $theLinesName;
+			my $lineScroll = 0;
+			my $whichArrayWeAreOn = -1;
+			foreach $theLinesName (@lines) {
+				if ($theLinesName =~ /iiiiiiiiBeginNewVariableiiiiiiiiiii/) {
+					$variableStringForExec = "$variableStringForExec \'";			
+					$whichArrayWeAreOn++;
+					$variableArray[$whichArrayWeAreOn] = "";
+		
+				}
+				else {
+					$variableStringForExec = $variableStringForExec . $theLinesName . "\n";
+					#$variableArray[$whichArrayWeAreOn] = $variableArray[$whichArrayWeAreOn] . $theLinesName;
+					if ($lineScroll < $#lines) {
+						if ($lines[$lineScroll+1] =~ /iiiiiiiiBeginNewVariableiiiiiiiiiii/) {
+							$variableStringForExec = $variableStringForExec . "\' ";
+							#$variableArray[$whichArrayWeAreOn] = $variableArray[$whichArrayWeAreOn] . "\'\n";	
+						}				
+					}
+				}
+				$lineScroll++;
+				#print "*" . $theLinesName . "\n";
+			}
+			print LOG "\n\n\n\n" . $theFileName . "\n";
+			my $variables;
+			$variableStringForExec = $variableStringForExec . "\'\n";
+			
+		
+			#put in the perl file in here
+			print LOG "going into sendEmailSMTP with variables:<$variableStringForExec>\n";	
+			if ($isFirstTimeInSendEmail) {
+				open (LOG1, ">log_sendEmailSMTP.txt");
+				close LOG1;
+				$isFirstTimeInSendEmail = 0;
+			}	
+			system("perl converted_sendEmailSMTP1 $variableStringForExec");
+		
+		}
+		close (INPUT);
+		system ("mv $theFileName $doneWorkToDoDir" . "$fileNameWithoutFolderExtension");
+ 	} 	
+	else {
+		print LOG "the file was newer than the beginning of this script start  time\n";
+	}
+}	
+	

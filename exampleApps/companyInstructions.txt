@@ -1,0 +1,46 @@
+phone 1: text <companysite_new@sambatop.com> <petes_bike_shop>
+
+phone 1: text <petes_bike_shop_add_goods@sambatop.com> <quickTuneUp>
+
+phone 1: text <edit_quickTuneUp_petes_bike_shop_company@sambatop.com> <The quick tune up includes the following: Inspection, lubrication and precision adjustment to keep your bike ready to ride.45454545454545 30 dollars for a tune up 45454545454545 Find me at 145 Columbia Run, Columbia, MD. Or 423-632-6423>
+
+phone 1: text <petes_bike_shop_add_goods@sambatop.com> <majorTuneUp>
+
+hone 1: text <edit_majorTuneUp_petes_bike_shop_company@sambatop.com> <The major tune up includes a thorough inspection, disassembly, cleaning, lubrication, reassembly and adjustment of most major components including bearing systems.45454545454545 55 dollars for a tune up 45454545454545 Find me at petes_bike_shop_company@sambatop.com 145 Columbia Run, Columbia, MD. Or 423-632-6423>
+
+phone 1: text <petes_bike_shop_add_goods@sambatop.com> <gen_repair>
+
+phone 1: text <edit_gen_repair_petes_bike_shop_company@sambatop.com> <$15 per hour4545454545454545454545454545 Find me at petes_bike_shop_company@sambatop.com or 145 Columbia Run, Columbia, MD. Or 423-632-6423>
+
+phone 1: text <petes_bike_shop_edit_about_us@sambatop.com> <I have been helping out the Columbia, MD community and their bikes for the past 8 years. In that time, I have seen it all. From the crazy frame damage to the common tuneup, let me prove why so many rely on me!45454545454545Find me at 145 Columbia Run, Columbia, MD. Or 423-632-6423>
+*****attach bikeman.jpg*******
+
+
+phone 1: text <petes_bike_shop_add_news@sambatop.com> <The Columbia Ramble 50K Race is next Saturday. Only 15 slots left, $34 per rider gets you an awesome bike jersey and bottle with door prices. Hurry and register by calling 589-682-4893!>
+
+phone 1: text <petes_bike_shop_add_news@sambatop.com> <It is spring again which means this place is hopping! If you need a tuneup, please call and setup an appointment. 423-632-6423>
+
+
+phone 2: text <petes_bike_shop_company@sambatop.com>
+
+phone 2: text <google@sambatop.com> <bike tune columbia>
+
+phone 1: text <petes_bike_shop_interaction@sambatop.com>
+
+phone 1: text <petes_bike_shop_add_docs@sambatop.com> <We ride a lot in Columbia, here is a map of our favorite bike rides>
+********attach bikemap.jpg**********
+
+phone 1: text 1 a13284928193829@sambatop.com
+phone 2: text <petes_bike_shop_request@sambatop.com> <My bike needs a tune up. U available Wed after? 428-432-5232>
+
+
+cleanup
+delete FROM txtCLI.codeWord where cli like "%bike%"
+delete from txtCLI.blogPosts where appName like "%bike%"
+delete from txtCLI.blogList where appName like "%bike%"
+delete from txtCLI.apps where appName like "%bike%"
+delete from txtCLI.blogSubscriptions where appName like "%bike%"
+delete from txtCLI.blogSubscriptions where subAppName like "%bike%"
+delete from txtCLI.blogList where subAppName like "%bike%"
+insert into txtCLI.codeWord (word,cli,username) values ('a13284928193829','nothing','admin')
+

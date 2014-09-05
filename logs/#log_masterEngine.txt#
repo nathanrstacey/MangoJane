@@ -1,0 +1,31 @@
+≈≈ç#####
+#####
+#####
+03/09/2014 16:53:13:In masterEngine.pl 
+theText before changing the carraige returns:#
+hi 
+#
+theText after changing the carraige returns:#
+hi 
+#
+starting values
+theEmail=nathanrstacey@gmail.com=
+theText=hi =
+attachmentString=
+
+
+about to go into getNextWord with theText=hi =
+in getNextWord
+leaving getNextWord with nextWord <hi>
+getNextWord is done. nextWord=hi=
+
+
+
+***********
+going through while loop to go into a new star sub with <hi>
+in closeup
+in closeUp. theTextCompleted= hi=
+in sendOutText
+about to make to make an email with "nathanrstacey@gmail.com" " "home@mangojane.com")
+leaving sendOutText
+leaving closeup

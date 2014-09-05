@@ -1,0 +1,27 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: nathanrstacey@gmail.com
+Received: by 10.224.87.15 with SMTP id u15csp166804qal;
+        Mon, 16 Dec 2013 11:33:27 -0800 (PST)
+X-Received: by 10.182.18.9 with SMTP id s9mr13018145obd.15.1387222407017;
+        Mon, 16 Dec 2013 11:33:27 -0800 (PST)
+Return-Path: <4438327080@vtext.com>
+Received: from txslspamp6.vtext.com (txslspamp6.vtext.com. [69.78.67.199])
+        by mx.google.com with ESMTP id kc10si9051244oeb.102.2013.12.16.11.33.26
+        for <nathanrstacey@gmail.com>;
+        Mon, 16 Dec 2013 11:33:26 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of 4438327080@vtext.com designates 69.78.67.199 as permitted sender) client-ip=69.78.67.199;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of 4438327080@vtext.com designates 69.78.67.199 as permitted sender) smtp.mail=4438327080@vtext.com
+Date: 16 Dec 2013 19:33:26 +0000
+Received: from unknown (HELO cocsvmaapp06-e1) ([10.136.190.9])
+  by txslspamp6.vtext.com with ESMTP; 16 Dec 2013 19:33:26 +0000
+From: 4438327080@vtext.com
+To: nathanrstacey@gmail.com
+Message-ID: <8885370.1556795.1387222406709.JavaMail.vmaprod@cocsvmaapp06>
+Subject: This is a test
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+This is a test
+

@@ -1,0 +1,19 @@
+#! /bin/bash
+
+echo "hello World"
+x=1
+while (x=1)
+do
+ echo "grabbing emails.."
+ /usr/bin/python POP3Retrieve.py
+ sleep 1
+ echo "parsing emails.."
+ /usr/bin/perl converted_startConvertCodeword_0.2pl
+ sleep 1
+ echo "running main engine.."
+ /usr/bin/perl converted_startMasterEngine.pl
+ sleep 1
+ echo "sending out emails.."
+ /usr/bin/perl converted_startsendEmailSMTP.pl
+ sleep 1
+done

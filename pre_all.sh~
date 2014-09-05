@@ -1,0 +1,19 @@
+#! /bin/bash
+
+echo "hello World"
+x=1
+while (x=1)
+do
+ echo "grabbing emails.."
+ /usr/bin/perl /var/scripts1_0_1/testParsers/testEmailParser3_1.pl
+ sleep 1
+ echo "parsing emails.."
+ /usr/bin/perl /var/scripts1_0_1/testParsers/startEmailParse3_2.pl
+ sleep 1
+ echo "running main engine.."
+ /usr/bin/perl /var/scripts1_0_1/testParsers/startMasterEngine.pl
+ sleep 1
+ echo "sending out emails.."
+ /usr/bin/perl /var/scripts1_0_1/testParsers/startsendEmailSMTP.pl
+ sleep 1
+done

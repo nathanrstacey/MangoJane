@@ -1,0 +1,13 @@
+things to work on:
+
+get approval system changed for infinite number of emails
+get infinite number of emails setup
+only let admins on configuration.d file make apps
+
+Next:
+make sure the app is a blog before going into blog subapps
+breakup masterEngine so that we can append it back together with possible addons. As in, more than just blog subapps and new star apps 
+all multiple email servers and domains to use same system
+tool to make apps with slashs
+
+

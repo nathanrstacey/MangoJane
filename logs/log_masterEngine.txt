@@ -1,0 +1,225 @@
+#####
+#####
+#####
+04/09/2014 14:34:59:In masterEngine.pl 
+theText before changing the carraige returns:#
+*y Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ## 
+#
+theText after changing the carraige returns:#
+*y Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ## 
+#
+starting values
+theEmail=newsletter@zend.com=
+theText=*y Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ## =
+attachmentString=be
+
+
+about to go into getNextWord with theText=*y Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ## =
+in getNextWord
+leaving getNextWord with nextWord <*y>
+getNextWord is done. nextWord=*y=
+
+
+
+***********
+going through while loop to go into a new star sub with <*y>
+going into stary
+In stary
+in getNextWord
+leaving getNextWord with nextWord <Hi>
+in isAnotherWord with <Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <Nahtan,>
+in isAnotherWord with <Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <Zend>
+in isAnotherWord with <is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <is>
+in isAnotherWord with <taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <taking>
+in isAnotherWord with <the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <the>
+in isAnotherWord with <pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <pulse>
+in isAnotherWord with <of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <of>
+in isAnotherWord with <the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <the>
+in isAnotherWord with <worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <worldwide>
+in isAnotherWord with <PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <PHP>
+in isAnotherWord with <developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <developer>
+in isAnotherWord with <community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <community.>
+in isAnotherWord with <Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <Why>
+in isAnotherWord with <do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <do>
+in isAnotherWord with <app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <app>
+in isAnotherWord with <releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <releases>
+in isAnotherWord with <fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <fail?>
+in isAnotherWord with <Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <Does>
+in isAnotherWord with <automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <automation>
+in isAnotherWord with <increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <increase>
+in isAnotherWord with <development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <development>
+in isAnotherWord with <productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <productivity?>
+in isAnotherWord with <And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <And>
+in isAnotherWord with <what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <what>
+in isAnotherWord with <really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <really>
+in isAnotherWord with <fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <fuels>
+in isAnotherWord with <your coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <your>
+in isAnotherWord with <coding sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <coding>
+in isAnotherWord with <sessions? Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <sessions?>
+in isAnotherWord with <Share your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <Share>
+in isAnotherWord with <your opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <your>
+in isAnotherWord with <opinion, because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <opinion,>
+in isAnotherWord with <because it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <because>
+in isAnotherWord with <it matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <it>
+in isAnotherWord with <matters! Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <matters!>
+in isAnotherWord with <Take this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <Take>
+in isAnotherWord with <this short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <this>
+in isAnotherWord with <short survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <short>
+in isAnotherWord with <survey, and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <survey,>
+in isAnotherWord with <and youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <and>
+in isAnotherWord with <youll ## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <1>
+in getNextWord
+leaving getNextWord with nextWord <youll>
+in isAnotherWord with <## *e notify  **a -a -u -s ## *m  *e notify justSubscribed **l 1 1 # # ##>
+leaving isAnotherWord with <0> as there was a pound#
+in getNextWord
+leaving getNextWord with nextWord <##>
+about to do the following<update userUsage SET nickname='Hi Nahtan, Zend is taking the pulse of the worldwide PHP developer community. Why do app releases fail? Does automation increase development productivity? And what really fuels your coding sessions? Share your opinion, because it matters! Take this short survey, and youll' WHERE (userName = 'newsletter@zend.com')>
+Leaving stary
+
+
+
+***********
+going through while loop to go into a new star sub with <##>
+no codeword so lets see what user did last
+in if
+in getNextWord
+leaving getNextWord with nextWord <*e>
+about to get first nextWord=<*e> before while
+
+
+
+***********
+going through while loop to go into a new star sub with <*e>
+in stare
+in getNextWord
+leaving getNextWord with nextWord <notify>
+in getNextWord
+leaving getNextWord with nextWord <>
+in closeup
+in closeUp. theTextCompleted= *e notify =
+in sendOutText
+about to make to make an email with "newsletter@zend.com" " "")
+leaving sendOutText
+leaving closeup

@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+perl refresh_configuration_file.pl
+perl appendPerlFilesWithGlobalVariables.pl
+sudo chmod 777 /run/dovecot
+

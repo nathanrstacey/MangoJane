@@ -1,0 +1,123 @@
+######
+-phone 1: text blogger@sambatop.com
+-phone 1: text blogger_new@sambatop.com <jessicas_recipes>
+-phone 1: text blogger_public_jessicas_recipes@sambatop.com
+-phone 1: text blogger_jessicas_recipes@sambatop.com <
+45454545454545Dark Chocolate- Oatmeal Cookie Cupcakes4545454545454545454545454545Yield: 16 cookie cupcakes4545454545454545454545454545Prep Time: 25 min4545454545454545454545454545Cook Time: 15 min45454545454545Ingredients:4545454545454545454545454545COOKIES:454545454545451 .5 cups All Purpose Gold Medal® Flour454545454545451 teaspoon baking soda45454545454545.25 teaspoon salt454545454545451 .5 cups packed brown sugar454545454545451 cup  salted butter454545454545452 teaspoons vanilla extract454545454545451 large egg454545454545452 cups quick-cooking oats454545454545456 ounces dark chocolate bar, chopped into chunks 4545454545454545454545454545GANACHE:454545454545452 ounces dark chocolate bar, chopped into chunks 45454545454545.5 tablespoon cream 45454545454545Directions:45454545454545454545454545451. Preheat the oven to 350 degrees F. Spray 16 muffin tins with nonstick spray.45454545454545454545454545452. In a medium bowl, whisk together the flour, baking soda and salt. Set aside.45454545454545454545454545453. In a large bowl, use an electric mixer to mix the sugar and butter until well-combined. Mix in the vanilla and egg. Then mix in the flour and the oats. Stir in 6 ounces of the chopped chocolate. Scoop the batter into the prepared muffin tins, filling each almost full. Bake 15 to 18 minutes, or until the cookie cupcakes are fairly well set and no longer squishy when touched. Remove the cookie cupcakes from the oven and let them cool completely. My best method for removing them cleanly from the pan is to refrigerate the cupcakes in the pan until cool, then use a sharp knife to edge the cookies out of the tins.45454545454545454545454545454. If you are adding the ganache, combine the chocolate and cream in a small bowl and microwave just until hot. Stir until the chocolate is melted and smooth. Carefully spoon the ganache into a zip baggie, snip a small hole in the corner of the bag, and drizzle ganache onto each cookie cupcake. Store the cookie cupcakes in a single layer in a covered container at room temperature.>
+***attach oatmeal cookie image on desktop
+-phone 2: text blogger_subscribe@sambatop.com <jessicas_recipes>
+-phone 2: text blogger_search_jessicas_recipes@sambatop.com <cookie>
+
+-phone 1: text blogger_new@sambatop.com <our_crazy_life>
+-phone 2: text blogger_subscribe@sambatop.com <our_crazy_life>
+-phone 1: text a13284928193829@sambatop.com 
+-phone 1: text blogger_our_crazy_life <My friend Sarah told us about this great event at the Ravens stadium.  It was just for kids (and their parents) and they showed the Lorax on the big screen.  We brought blankets and pillows and got yummy stadium snacks.  It was such a fun activity.  The kids had a blast with their friends Conner and Finley and we really enjoyed the beautiful weather and family snuggle time. > 
+***attach toddler girl image on desktop
+
+phone 2: text blogger_try_these  
+
+cleanUp:
+delete FROM txtCLI.codeWord where word like '%jessica_%'
+delete FROM txtCLI.codeWord where word like '%our_crazy_%'
+delete FROM txtCLI.blogPosts where subAppName like '%jessica_%'
+delete FROM txtCLI.blogList where ((subAppName like '%our_crazy_%') or (subAppName like '%jessica_%'))
+delete FROM txtCLI.blogSubscriptions where ((subAppName like '%our_crazy_%') or (subAppName like '%jessicas_%'))
+
+
+
+
+
+
+
+
+Prep
+*n blogger *r all
+*x -a blogger welcome blog *e blogger welcome **r public *e blogger welcome **n Welcome to blogger. You should receive texts from other addresses to assist you with this app # #
+*x -a blogger subscribe blog *e blogger subscribe **r public *e blogger subscribe **n Text me the name of a blog which you wish to subscribe # #
+*x -a blogger unsubscribe blog *e blogger unsubscribe **r public *e blogger unsubscribe **n You have unsubscribed to this blog # #
+*x -a blogger subscribe_successful blog *e blogger subscribe_successful **r public *e blogger subscribe_successful **n You subscribed to the blog. If it is private we are awaiting the owners approval of this subscription. To unsubscribe at anytime, text anything back to me # #
+*x -a blogger new blog *e blogger new **r public *e blogger new **n Text me back the name of a new blog you wish to start # #
+*x -a blogger startThisBlog blog *e blogger startThisBlog **r public *e blogger startThisBlog **n Congrats, your blog is made! Text me back to post onto your blog # #
+*x -a blogger delete blog *e blogger delete **r public *e blogger delete **n Text me back to delete this blog. Remember, this will delete every post as well so be careful! # #
+*x -a blogger delete_successful blog *e blogger delete_successful **r public *e blogger delete_successful **n This blog has been deleted successfully # #
+*x -a blogger post_successful blog *e blogger post_successful **r public *e blogger post_successful **n The post was successful!# #
+*x -a blogger try_these blog *e blogger try_these **r public *e blogger try_these **n Text me back to see some blogs that might interest you # #
+*x -a blogger public blog *e blogger public **r public *e blogger public **n Text me back anything to make this blog public # #
+*x -a blogger private blog *e blogger private **r public *e blogger private **n Text me back anything to make this blog private # #
+*x -a blogger public_successful blog *e blogger public_successful **r public *e blogger public_successful **n This blog is now public # #
+*x -a blogger private_successful blog *e blogger private_successful **r public *e blogger private_successful **n This blog is now private # #
+*x -a blogger search blog *e blogger search **r public *e blogger search **n Search all accessible blogs. Simply text me back a search term # #
+*x -a blogger search_app blog *e blogger search_app **r public *e blogger search_app **n Search this blog here. Simply text me back a search term # #
+
+
+
+Initial Codewords
+blogger
+*c blogger *m blogger_search *e blogger search **l 1 # # {-p} \#\# *m blogger *e blogger welcome **l 1 # # {-p} \#\# *m blogger_try_these *e blogger try_these **l 1 # # {-p} \#\# *m blogger_subscribe *e blogger subscribe **l 1 # # {-p} \#\# *m blogger_new *e blogger new **l 1 # # {-p} \#\#  
+
+
+blogger_subscribe
+*c blogger_subscribe *m blogger_unsubscribe_jj *e blogger jq **a -a -u -s *e blogger subscribe_successful **l 1 # # {-p} \#\# *m blogger_search_jq *e blogger search_app **l 1 # # {-p} \#\#
+
+blogger_new
+*c blogger_new *m blogger_jj *x -a blogger jq blog *e blogger jq **r private *e blogger startThisBlog **l 1 # # {-p} *m blogger_delete_jq *e blogger delete **l 1 # # {-p} \#\# *m blogger_public_jq *e blogger public **l 1 # # {-p} \#\# *m blogger_jq *e blogger private_successful **l 1 # # {-p}
+
+blogger_try_these
+*c blogger_try_these *h blogger *m blogger_unsubscribe_js *e blogger js **a -a -u -s *e blogger subscribe_successful **l 1 # # {-p} \\#\\# \#\#
+
+blogger_search
+*c blogger_search *m blogger_search *b qj # # (-st){-b:-p}
+
+
+
+	Routines in Codewords
+	blogger_unsubscribe_jj - created under blogger_subscribe
+	*c blogger_unsubscribe_jj *m blogger_unsubscribe_jq *e blogger jq **a -r -u -s *e blogger unsubscribe **l 1 # # {-p}
+	*c blogger_unsubscribe_\j\j *m blogger_unsubscribe_\j\q *e blogger \j\q **a -r -u -s *e blogger unsubscribe **l 1 # # {-p}
+
+	blogger_search_jj - created under blogger_subscribe
+	*c blogger_search_jj *m blogger_search_jq *e blogger jq **b \q\j # # -st:-e{-b-p}
+	*c blogger_search_\j\j *m blogger_search_\j\q *e blogger \j\q **b \\q\\j # # -st:-e{-b-p}
+
+	blogger_delete_jj - created under blogger_new
+	*c blogger_delete_jj *x -r blogger jq *m blogger_jq *e blogger delete_successful **l 1 # # {-p}
+	*c blogger_delete_\j\j *x -r blogger \j\q *m blogger_\j\q *e blogger delete_successful **l 1 # # {-p}
+
+	blogger_jj - created under blogger_new
+	*c blogger_jj *m blogger_jq *e blogger jq **n \q\j # # {-p} \#\# *e blogger post_successful **l 1 # # {-p}
+	*c blogger_\j\j *m blogger_\j\q *e blogger \j\q **n \\q\\j # # {-p} \\#\\# *e blogger post_successful **l 1 # # {-p}	
+	
+	blogger_public_jj - created under blogger_new
+	*c blogger_public_jj *e blogger jq **r public *m blogger_private_jq *e blogger private **l 1 # # {-p} \#\# *m blogger_jq *e blogger public_successful **l 1 # # {-p}
+	*c blogger_public_\j\j *e blogger \j\q **r public *m blogger_private_\j\q *e blogger private **l 1 # # {-p} \\#\\# *m blogger_\j\q *e blogger public_successful **l 1 # # {-p}
+	
+	blogg_private_jj - created under blogger_new
+	*c blogger_private_jj *m blogger_jq *e blogger jq **r private *e blogger private_successful **l 1 # # {-p} \#\# *m blogger_public_jq *e blogger public **l 1 # # {-p}
+	*c blogger_private_\j\j *m blogger_\j\q *e blogger \j\q **r private *e blogger private_successful **l 1 # # {-p} \\#\\# *m blogger_public_\j\q *e blogger public **l 1 # # {-p}
+
+
+
+
+
+
+
+
+Final codeword with routines:
+blogger
+*c blogger *m blogger_search *e blogger search **l 1 # # {-p} \#\# *m blogger *e blogger welcome **l 1 # # {-p} \#\# *m blogger_try_these *e blogger try_these **l 1 # # {-p} \#\# *m blogger_subscribe *e blogger subscribe **l 1 # # {-p} \#\# *m blogger_new *e blogger new **l 1 # # {-p} \#\#
+
+
+blogger_subscribe
+*c blogger_subscribe *m blogger_unsubscribe_jj *e blogger jq **a -a -u -s *e blogger subscribe_successful **l 1 # # {-p} \#\# *m blogger_search_jq *e blogger search_app **l 1 # # {-p} \#\# *c blogger_unsubscribe_\j\j *m blogger_unsubscribe_\j\q *e blogger \j\q **a -r -u -s *e blogger unsubscribe **l 1 # # {-p} \#\# *c blogger_search_\j\j *m blogger_search_\j\q *e blogger \j\q **b \\q\\j # # -st:-e{-b-p} \#\#
+
+blogger_new
+*c blogger_new *m blogger_jj *x -a blogger jq blog *e blogger jq **r private *e blogger startThisBlog **l 1 # # {-p} *m blogger_delete_jq *e blogger delete **l 1 # # {-p} \#\# *m blogger_public_jq *e blogger public **l 1 # # {-p} \#\# *m blogger_jq *e blogger private_successful **l 1 # # {-p} \#\# *c blogger_delete_\j\q *x -r blogger \j\q *m blogger_\j\q *e blogger delete_successful **l 1 # # {-p} \#\# *c blogger_\j\q *m blogger_\j\q *e blogger \j\q **n \\q\\j # # {-p} \\#\\# *e blogger post_successful **l 1 # # {-p} \#\# *c blogger_public_\j\j *e blogger \j\q **r public *m blogger_private_\j\q *e blogger private **l 1 # # {-p} \\#\\# *m blogger_\j\q *e blogger public_successful **l 1 # # {-p} \#\# *c blogger_private_\j\q *m blogger_\j\q *e blogger \j\q **r private *e blogger private_successful **l 1 # # {-p} \\#\\# *m blogger_public_\j\q *e blogger public **l 1 # # {-p} \#\#
+ 
+
+blogger_try_these
+*c blogger_try_these *h blogger *m blogger_unsubscribe_js *e blogger js **a -a -u -s *e blogger subscribe_successful **l 1 # # {-p} \\#\\# \#\#
+
+blogger_search
+*c blogger_search *m blogger_search *b blogger qj # # (-st){-b-p} \#\#
+
+

@@ -1,0 +1,9 @@
+#!/bin/bash 
+
+mkdir workToDo/
+mkdir email/
+mkdir email/attachments/
+mkdir doneWorkToDo/
+mkdir logs/
+gzip -d sendEmail-v1.56.tar.gz
+
